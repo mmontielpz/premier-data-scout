@@ -1,0 +1,631 @@
+,Player Name,Weekly Wage,Yearly Salary,Age,Position,Nationality,Team
+0,Neto,"£100,000","£5,200,000",33,GK,Brazil,afc-bournemouth
+1,Dominic Solanke,"£72,000","£3,744,000",25,ST,England,afc-bournemouth
+2,Justin Kluivert,"£70,000","£3,640,000",24,AM RL,Netherlands,afc-bournemouth
+3,Philip Billing,"£54,000","£2,808,000",27,"DM, AM C",Denmark,afc-bournemouth
+4,Alex Scott,"£53,000","£2,756,000",19,"DM, AM RC",England,afc-bournemouth
+5,Hamed Traorè,"£51,000","£2,652,000",23,AM LC,Ivory Coast,afc-bournemouth
+6,Antoine Semenyo,"£48,000","£2,496,000",23,"AM RL, ST",Ghana,afc-bournemouth
+7,Tyler Adams,"£47,000","£2,444,000",24,"D/WB R, DM",U.S.A.,afc-bournemouth
+8,Illia Zabarnyi,"£46,000","£2,392,000",20,D C,Ukraine,afc-bournemouth
+9,Marcos Senesi,"£44,000","£2,288,000",26,D C,Argentina,afc-bournemouth
+10,Dango Ouattara,"£42,000","£2,184,000",21,"AM R, ST",Burkina Faso,afc-bournemouth
+12,Darren Randolph,"£42,000","£2,184,000",36,GK,Ireland,afc-bournemouth
+13,Luis Sinisterra,"£39,000","£2,028,000",24,AM RL,Colombia,afc-bournemouth
+14,Marcus Tavernier,"£39,000","£2,028,000",24,"WB L, AM RLC",England,afc-bournemouth
+15,David Brooks,"£37,000","£1,924,000",25,AM RC,Wales,afc-bournemouth
+16,Chris Mepham,"£37,000","£1,924,000",25,D C,Wales,afc-bournemouth
+17,Lewis Cook,"£35,000","£1,820,000",26,DM,England,afc-bournemouth
+18,Lloyd Kelly,"£35,000","£1,820,000",24,D LC,England,afc-bournemouth
+19,Max Aarons,"£34,000","£1,768,000",23,D/WB R,England,afc-bournemouth
+20,Ryan Christie,"£33,000","£1,716,000",28,AM RLC,Scotland,afc-bournemouth
+21,Adam Smith,"£33,000","£1,716,000",32,D/WB RL,England,afc-bournemouth
+23,Ryan Fredericks,"£33,000","£1,716,000",30,D/WB/AM R,England,afc-bournemouth
+24,Ionuţ Radu,"£32,000","£1,664,000",26,GK,Romania,afc-bournemouth
+25,Joe Rothwell,"£30,000","£1,560,000",28,DM,England,afc-bournemouth
+26,Kieffer Moore,"£25,000","£1,300,000",30,ST,Wales,afc-bournemouth
+27,Miloš Kerkez,"£24,000","£1,248,000",19,D/WB/M L,Hungary,afc-bournemouth
+28,Emiliano Marcondes,"£17,000","£884,000",28,"AM LC, F C",Denmark,afc-bournemouth
+29,Gavin Kilkenny,"£13,000","£676,000",23,DM,Ireland,afc-bournemouth
+30,Ben Greenwood,"£3,500","£182,000",21,D/WB L,Ireland,afc-bournemouth
+31,Euan Pollock,"£1,300","£67,600",20,ST,England,afc-bournemouth
+32,Bukayo Saka,"£250,000","£13,000,000",21,AM RL,England,arsenal-f.c.
+33,Declan Rice,"£250,000","£13,000,000",24,"D C, DM",England,arsenal-f.c.
+34,Martin Ødegaard,"£225,000","£11,700,000",24,AM C,Norway,arsenal-f.c.
+35,Kai Havertz,"£220,000","£11,440,000",24,AM/F C,Germany,arsenal-f.c.
+36,Gabriel Martinelli,"£200,000","£10,400,000",22,"AM RL, ST",Brazil,arsenal-f.c.
+37,William Saliba,"£190,000","£9,880,000",22,D C,France,arsenal-f.c.
+38,Thomas Partey,"£160,000","£8,320,000",30,"D R, DM",Ghana,arsenal-f.c.
+39,Gabriel Jesus,"£120,000","£6,240,000",26,"AM RL, ST",Brazil,arsenal-f.c.
+40,Oleksandr Zinchenko,"£120,000","£6,240,000",26,"D/WB L, DM",Ukraine,arsenal-f.c.
+41,Leandro Trossard,"£110,000","£5,720,000",28,"WB L, AM LC, F C",Belgium,arsenal-f.c.
+42,Jorginho,"£110,000","£5,720,000",31,DM,Italy,arsenal-f.c.
+44,Jurriën Timber,"£110,000","£5,720,000",22,D RLC,Netherlands,arsenal-f.c.
+45,Gabriel,"£100,000","£5,200,000",25,D C,Brazil,arsenal-f.c.
+46,Benjamin White,"£93,000","£4,836,000",25,D RC,England,arsenal-f.c.
+47,Reiss Nelson,"£88,000","£4,576,000",23,AM RL,England,arsenal-f.c.
+48,Aaron Ramsdale,"£83,000","£4,316,000",25,GK,England,arsenal-f.c.
+49,Fábio Vieira,"£82,000","£4,264,000",23,AM RLC,Portugal,arsenal-f.c.
+50,David Raya,"£77,000","£4,004,000",27,GK,Spain,arsenal-f.c.
+51,Eddie Nketiah,"£77,000","£4,004,000",24,"AM RL, ST",England,arsenal-f.c.
+52,Emile Smith Rowe,"£68,000","£3,536,000",22,AM RLC,England,arsenal-f.c.
+53,Cédric,"£67,000","£3,484,000",31,D/WB RL,Portugal,arsenal-f.c.
+55,Takehiro Tomiyasu,"£62,000","£3,224,000",24,D RLC,Japan,arsenal-f.c.
+56,Jakub Kiwior,"£58,000","£3,016,000",23,"D LC, DM",Poland,arsenal-f.c.
+57,Mohamed Elneny,"£49,000","£2,548,000",30,DM,Egypt,arsenal-f.c.
+58,Miguel Azeez,"£5,900","£306,800",20,"DM, AM C",England,arsenal-f.c.
+59,Khayon Edwards,"£5,000","£260,000",19,"AM RLC, F C",England,arsenal-f.c.
+60,Karl Jakob Hein,"£3,000","£156,000",21,GK,Estonia,arsenal-f.c.
+61,Charles Sagoe,"£2,400","£124,800",18,AM RLC,England,arsenal-f.c.
+62,Elian Quesada-Thorn,"£2,300","£119,600",18,D/WB/AM L,Costa Rica,arsenal-f.c.
+63,James Sweet,"£2,100","£109,200",19,"D/WB R, DM, M RC",Wales,arsenal-f.c.
+64,Youri Tielemans,"£150,000","£7,800,000",26,DM,Belgium,aston-villa-f.c.
+65,Lucas Digne,"£130,000","£6,760,000",29,D/WB L,France,aston-villa-f.c.
+66,Emiliano Martínez,"£125,000","£6,500,000",30,GK,Argentina,aston-villa-f.c.
+67,Pau Torres,"£120,000","£6,240,000",26,D C,Spain,aston-villa-f.c.
+68,Ollie Watkins,"£120,000","£6,240,000",27,"AM RL, ST",England,aston-villa-f.c.
+69,Moussa Diaby,"£100,000","£5,200,000",23,"AM RL, ST",France,aston-villa-f.c.
+70,Diego Carlos,"£100,000","£5,200,000",30,D C,Brazil,aston-villa-f.c.
+71,Boubacar Kamara,"£100,000","£5,200,000",23,DM,France,aston-villa-f.c.
+72,Clément Lenglet,"£97,000","£5,044,000",28,D C,France,aston-villa-f.c.
+73,Douglas Luiz,"£92,000","£4,784,000",25,DM,Brazil,aston-villa-f.c.
+74,Ezri Konsa,"£92,000","£4,784,000",25,D C,England,aston-villa-f.c.
+76,Álex Moreno,"£90,000","£4,680,000",30,D/WB/AM L,Spain,aston-villa-f.c.
+77,Leon Bailey,"£90,000","£4,680,000",25,AM RL,Jamaica,aston-villa-f.c.
+78,Emiliano Buendía,"£82,000","£4,264,000",26,AM RC,Argentina,aston-villa-f.c.
+79,John McGinn,"£75,000","£3,900,000",28,AM RLC,Scotland,aston-villa-f.c.
+80,Jacob Ramsey,"£75,000","£3,900,000",22,AM LC,England,aston-villa-f.c.
+81,Leander Dendoncker,"£75,000","£3,900,000",28,DM,Belgium,aston-villa-f.c.
+82,Tyrone Mings,"£72,000","£3,744,000",30,D LC,England,aston-villa-f.c.
+83,Matty Cash,"£69,000","£3,588,000",25,D/WB/M R,Poland,aston-villa-f.c.
+84,Bertrand Traoré,"£63,000","£3,276,000",27,"AM RL, ST",Burkina Faso,aston-villa-f.c.
+85,Calum Chambers,"£57,000","£2,964,000",28,"D RC, DM",England,aston-villa-f.c.
+87,Nicolò Zaniolo,"£56,000","£2,912,000",24,"AM RLC, F C",Italy,aston-villa-f.c.
+88,Kortney Hause,"£50,000","£2,600,000",27,D LC,England,aston-villa-f.c.
+89,Jhon Durán,"£39,000","£2,028,000",19,ST,Colombia,aston-villa-f.c.
+90,Robin Olsen,"£33,000","£1,716,000",33,GK,Sweden,aston-villa-f.c.
+91,Tim Iroegbunam,"£12,000","£624,000",20,DM,England,aston-villa-f.c.
+92,Rory Wilson,"£5,700","£296,400",17,ST,Scotland,aston-villa-f.c.
+93,Josh Feeney,"£5,100","£265,200",18,D C,England,aston-villa-f.c.
+94,Filip Marschall,"£4,300","£223,600",20,GK,England,aston-villa-f.c.
+95,Ben Chrisene,"£3,500","£182,000",19,D/WB/AM L,England,aston-villa-f.c.
+96,Neal Maupay,"£49,000","£2,548,000",26,ST,France,brentford
+97,Bryan Mbeumo,"£43,000","£2,236,000",23,"AM RL, ST",Cameroon,brentford
+98,Ben Mee,"£43,000","£2,236,000",33,D LC,England,brentford
+99,Christian Nørgaard,"£42,000","£2,184,000",29,DM,Denmark,brentford
+100,Mathias Jensen,"£39,000","£2,028,000",27,M C,Denmark,brentford
+101,Mikkel Damsgaard,"£39,000","£2,028,000",23,AM RLC,Denmark,brentford
+102,Nathan Collins,"£39,000","£2,028,000",22,D C,Ireland,brentford
+103,Frank Onyeka,"£37,000","£1,924,000",25,DM,Nigeria,brentford
+104,Ivan Toney,"£36,000","£1,872,000",27,ST,England,brentford
+105,Rico Henry,"£35,000","£1,820,000",25,D/WB L,England,brentford
+106,Kristoffer Ajer,"£35,000","£1,820,000",25,"D C, DM",Norway,brentford
+108,Aaron Hickey,"£35,000","£1,820,000",21,D/WB RL,Scotland,brentford
+109,Mark Flekken,"£34,000","£1,768,000",30,GK,Netherlands,brentford
+110,Ethan Pinnock,"£32,000","£1,664,000",30,D C,Jamaica,brentford
+111,Vitaly Janelt,"£32,000","£1,664,000",25,DM,Germany,brentford
+112,Thomas Strakosha,"£32,000","£1,664,000",28,GK,Albania,brentford
+113,Keane Lewis-Potter,"£32,000","£1,664,000",22,AM RLC,England,brentford
+114,Kevin Schade,"£30,000","£1,560,000",21,"AM RLC, F C",Germany,brentford
+115,Mads Roerslev,"£29,000","£1,508,000",24,D/WB R,Denmark,brentford
+116,Josh Dasilva,"£27,000","£1,404,000",24,M C,England,brentford
+117,Yoane Wissa,"£26,000","£1,352,000",26,"AM L, ST",DR Congo,brentford
+119,Mathias Jørgensen,"£24,000","£1,248,000",33,D C,Denmark,brentford
+120,Saman Ghoddos,"£23,000","£1,196,000",29,AM RLC,Iran,brentford
+121,Shandon Baptiste,"£21,000","£1,092,000",25,"DM, AM C",Grenada,brentford
+122,Charlie Goode,"£20,000","£1,040,000",27,D C,England,brentford
+123,Ellery Balcombe,"£17,000","£884,000",23,GK,England,brentford
+124,Myles Peart-Harris,"£4,900","£254,800",20,AM C,England,brentford
+125,Yehor Yarmoliuk,"£4,300","£223,600",19,AM C,Ukraine,brentford
+126,Michael Olakigbe,"£3,900","£202,800",19,AM RLC,England,brentford
+127,Nathan Young-Coombes,"£3,900","£202,800",20,ST,England,brentford
+128,Ansu Fati,"£198,000","£10,296,000",20,"AM RL, ST",Spain,brighton-&-hove-albion
+129,Lewis Dunk,"£85,000","£4,420,000",31,D C,England,brighton-&-hove-albion
+130,Adam Lallana,"£70,000","£3,640,000",35,"DM, AM C",England,brighton-&-hove-albion
+131,James Milner,"£70,000","£3,640,000",37,"D/WB RL, DM",England,brighton-&-hove-albion
+132,Pascal Groß,"£69,000","£3,588,000",32,"DM, AM C",Germany,brighton-&-hove-albion
+133,Pervis Estupiñán,"£59,000","£3,068,000",25,D/WB/M L,Ecuador,brighton-&-hove-albion
+134,Adam Webster,"£58,000","£3,016,000",28,D C,England,brighton-&-hove-albion
+135,Joël Veltman,"£55,000","£2,860,000",31,D RC,Netherlands,brighton-&-hove-albion
+136,Mahmoud Dahoud,"£54,000","£2,808,000",27,DM,Germany,brighton-&-hove-albion
+137,Solly March,"£53,000","£2,756,000",28,WB/AM RL,England,brighton-&-hove-albion
+138,Danny Welbeck,"£52,000","£2,704,000",32,"AM RL, ST",England,brighton-&-hove-albion
+140,Igor,"£51,000","£2,652,000",25,D LC,Brazil,brighton-&-hove-albion
+141,João Pedro,"£45,000","£2,340,000",21,"AM RLC, F C",Brazil,brighton-&-hove-albion
+142,Tariq Lamptey,"£42,000","£2,184,000",22,"D/WB RL, M R",Ghana,brighton-&-hove-albion
+143,Billy Gilmour,"£38,000","£1,976,000",22,DM,Scotland,brighton-&-hove-albion
+144,Jan Paul van Hecke,"£30,000","£1,560,000",23,D C,Netherlands,brighton-&-hove-albion
+145,Evan Ferguson,"£27,000","£1,404,000",18,ST,Ireland,brighton-&-hove-albion
+146,Jakub Moder,"£23,000","£1,196,000",24,"DM, AM C",Poland,brighton-&-hove-albion
+147,Bart Verbruggen,"£23,000","£1,196,000",20,GK,Netherlands,brighton-&-hove-albion
+148,Kaoru Mitoma,"£20,000","£1,040,000",26,AM L,Japan,brighton-&-hove-albion
+149,Carlos Baleba,"£20,000","£1,040,000",19,"DM, AM C",Cameroon,brighton-&-hove-albion
+151,Facundo Buonanotte,"£17,000","£884,000",18,AM RLC,Argentina,brighton-&-hove-albion
+152,Jason Steele,"£16,000","£832,000",32,GK,England,brighton-&-hove-albion
+153,Julio Enciso,"£15,000","£780,000",19,AM RLC,Paraguay,brighton-&-hove-albion
+154,Simon Adingra,"£13,000","£676,000",21,"AM RL, ST",Ivory Coast,brighton-&-hove-albion
+155,Thomas McGill,"£7,600","£395,200",23,GK,Canada,brighton-&-hove-albion
+156,Noël Atom,"£5,900","£306,800",18,D C,Germany,brighton-&-hove-albion
+157,Benicio Baker-Boaitey,"£3,500","£182,000",19,AM RL,England,brighton-&-hove-albion
+158,Jack Hinchy,"£3,100","£161,200",20,DM,England,brighton-&-hove-albion
+159,Luca Barrington,"£3,000","£156,000",18,AM RL,England,brighton-&-hove-albion
+160,Neal Maupay,"£49,000","£2,548,000",26,ST,France,brentford
+161,Bryan Mbeumo,"£43,000","£2,236,000",23,"AM RL, ST",Cameroon,brentford
+162,Ben Mee,"£43,000","£2,236,000",33,D LC,England,brentford
+163,Christian Nørgaard,"£42,000","£2,184,000",29,DM,Denmark,brentford
+164,Mathias Jensen,"£39,000","£2,028,000",27,M C,Denmark,brentford
+165,Mikkel Damsgaard,"£39,000","£2,028,000",23,AM RLC,Denmark,brentford
+166,Nathan Collins,"£39,000","£2,028,000",22,D C,Ireland,brentford
+167,Frank Onyeka,"£37,000","£1,924,000",25,DM,Nigeria,brentford
+168,Ivan Toney,"£36,000","£1,872,000",27,ST,England,brentford
+169,Rico Henry,"£35,000","£1,820,000",25,D/WB L,England,brentford
+170,Kristoffer Ajer,"£35,000","£1,820,000",25,"D C, DM",Norway,brentford
+172,Aaron Hickey,"£35,000","£1,820,000",21,D/WB RL,Scotland,brentford
+173,Mark Flekken,"£34,000","£1,768,000",30,GK,Netherlands,brentford
+174,Ethan Pinnock,"£32,000","£1,664,000",30,D C,Jamaica,brentford
+175,Vitaly Janelt,"£32,000","£1,664,000",25,DM,Germany,brentford
+176,Thomas Strakosha,"£32,000","£1,664,000",28,GK,Albania,brentford
+177,Keane Lewis-Potter,"£32,000","£1,664,000",22,AM RLC,England,brentford
+178,Kevin Schade,"£30,000","£1,560,000",21,"AM RLC, F C",Germany,brentford
+179,Mads Roerslev,"£29,000","£1,508,000",24,D/WB R,Denmark,brentford
+180,Josh Dasilva,"£27,000","£1,404,000",24,M C,England,brentford
+181,Yoane Wissa,"£26,000","£1,352,000",26,"AM L, ST",DR Congo,brentford
+183,Mathias Jørgensen,"£24,000","£1,248,000",33,D C,Denmark,brentford
+184,Saman Ghoddos,"£23,000","£1,196,000",29,AM RLC,Iran,brentford
+185,Shandon Baptiste,"£21,000","£1,092,000",25,"DM, AM C",Grenada,brentford
+186,Charlie Goode,"£20,000","£1,040,000",27,D C,England,brentford
+187,Ellery Balcombe,"£17,000","£884,000",23,GK,England,brentford
+188,Myles Peart-Harris,"£4,900","£254,800",20,AM C,England,brentford
+189,Yehor Yarmoliuk,"£4,300","£223,600",19,AM C,Ukraine,brentford
+190,Michael Olakigbe,"£3,900","£202,800",19,AM RLC,England,brentford
+191,Nathan Young-Coombes,"£3,900","£202,800",20,ST,England,brentford
+192,Sander Berge,"£48,000","£2,496,000",25,"DM, AM C",Norway,burnley-f.c.
+193,Zeki Amdouni,"£45,000","£2,340,000",22,"AM LC, F C",Switzerland,burnley-f.c.
+194,Jordan Beyer,"£40,000","£2,080,000",23,D RC,Germany,burnley-f.c.
+195,James Trafford,"£40,000","£2,080,000",20,GK,England,burnley-f.c.
+196,Dara O'Shea,"£37,000","£1,924,000",24,D RC,Ireland,burnley-f.c.
+197,Nathan Redmond,"£34,000","£1,768,000",29,AM RLC,England,burnley-f.c.
+198,Anass Zaroury,"£33,000","£1,716,000",22,AM RL,Morocco,burnley-f.c.
+199,Jay Rodriguez,"£33,000","£1,716,000",33,"AM RC, F C",England,burnley-f.c.
+200,Charlie Taylor,"£32,000","£1,664,000",29,D LC,England,burnley-f.c.
+201,Josh Brownhill,"£30,000","£1,560,000",27,"DM, AM RC",England,burnley-f.c.
+202,Jack Cork,"£30,000","£1,560,000",34,DM,England,burnley-f.c.
+204,Jóhann Berg Guðmundsson,"£30,000","£1,560,000",32,AM RL,Iceland,burnley-f.c.
+205,Manuel Benson,"£29,000","£1,508,000",26,"AM RL, ST",Belgium,burnley-f.c.
+206,Aaron Ramsey,"£28,000","£1,456,000",20,AM LC,England,burnley-f.c.
+207,Arijanet Murić,"£27,000","£1,404,000",24,GK,Kosovo,burnley-f.c.
+208,Josh Cullen,"£25,000","£1,300,000",27,DM,Ireland,burnley-f.c.
+209,Lyle Foster,"£25,000","£1,300,000",22,"AM L, ST",South Africa,burnley-f.c.
+210,Jacob Bruun Larsen,"£25,000","£1,300,000",24,AM RL,Denmark,burnley-f.c.
+211,Connor Roberts,"£21,000","£1,092,000",27,D/WB R,Wales,burnley-f.c.
+212,Hannes Delcroix,"£21,000","£1,092,000",24,D C,Belgium,burnley-f.c.
+213,Michael Obafemi,"£19,000","£988,000",22,ST,Ireland,burnley-f.c.
+215,Vitinho,"£17,000","£884,000",23,D/WB/AM RL,Brazil,burnley-f.c.
+216,Hjalmar Ekdal,"£16,000","£832,000",24,D C,Sweden,burnley-f.c.
+217,Ameen Al-Dakhil,"£16,000","£832,000",21,D C,Belgium,burnley-f.c.
+218,Wilson Odobert,"£16,000","£832,000",18,"AM RL, ST",France,burnley-f.c.
+219,Luca Koleosho,"£15,000","£780,000",18,"AM RL, ST",Italy,burnley-f.c.
+220,Han-Noah Massengo,"£14,000","£728,000",21,DM,France,burnley-f.c.
+221,Mike Trésor,"£13,000","£676,000",24,AM LC,Belgium,burnley-f.c.
+222,Darko Churlinov,"£13,000","£676,000",22,AM RL,North Macedonia,burnley-f.c.
+223,Lawrence Vigouroux,"£13,000","£676,000",29,GK,Chile,burnley-f.c.
+224,Raheem Sterling,"£350,000","£18,200,000",28,AM RL,England,chelsea-f.c.
+225,Christopher Nkunku,"£300,000","£15,600,000",25,"AM RLC, F C",France,chelsea-f.c.
+226,Reece James,"£250,000","£13,000,000",23,D RC,England,chelsea-f.c.
+227,Wesley Fofana,"£230,000","£11,960,000",22,D C,France,chelsea-f.c.
+228,Ben Chilwell,"£190,000","£9,880,000",26,D/WB L,England,chelsea-f.c.
+229,Enzo Fernández,"£180,000","£9,360,000",22,"DM, AM C",Argentina,chelsea-f.c.
+230,Mykhaylo Mudryk,"£150,000","£7,800,000",22,AM RLC,Ukraine,chelsea-f.c.
+231,Moisés Caicedo,"£140,000","£7,280,000",21,DM,Ecuador,chelsea-f.c.
+232,Benoît Badiashile,"£120,000","£6,240,000",22,D C,France,chelsea-f.c.
+233,Nicolas Jackson,"£120,000","£6,240,000",22,"AM RLC, F C",Senegal,chelsea-f.c.
+234,Marc Cucurella,"£110,000","£5,720,000",24,"D LC, M L",Spain,chelsea-f.c.
+236,Noni Madueke,"£100,000","£5,200,000",21,AM RLC,England,chelsea-f.c.
+237,Malo Gusto,"£100,000","£5,200,000",20,"D/WB R, M C",France,chelsea-f.c.
+238,Carney Chukwuemeka,"£100,000","£5,200,000",19,AM C,England,chelsea-f.c.
+239,Thiago Silva,"£96,000","£4,992,000",38,D C,Brazil,chelsea-f.c.
+240,Axel Disasi,"£78,000","£4,056,000",25,D C,France,chelsea-f.c.
+241,Armando Broja,"£78,000","£4,056,000",21,"AM RL, ST",Albania,chelsea-f.c.
+242,Trevoh Chalobah,"£77,000","£4,004,000",23,"D RC, DM",England,chelsea-f.c.
+243,Levi Colwill,"£75,000","£3,900,000",20,D LC,England,chelsea-f.c.
+244,Roméo Lavia,"£73,000","£3,796,000",19,DM,Belgium,chelsea-f.c.
+245,Đorđe Petrović,"£70,000","£3,640,000",23,GK,Serbia,chelsea-f.c.
+247,Robert Sánchez,"£68,000","£3,536,000",25,GK,Spain,chelsea-f.c.
+248,Lesley Ugochukwu,"£50,000","£2,600,000",19,DM,France,chelsea-f.c.
+249,Deivid Washington,"£42,000","£2,184,000",18,ST,Brazil,chelsea-f.c.
+250,Malang Sarr,"£34,000","£1,768,000",24,D LC,France,chelsea-f.c.
+251,Marcus Bettinelli,"£29,000","£1,508,000",31,GK,England,chelsea-f.c.
+252,Cole Palmer,"£22,000","£1,144,000",21,AM RLC,England,chelsea-f.c.
+253,Conor Gallagher,"£17,000","£884,000",23,AM C,England,chelsea-f.c.
+254,Ian Maatsen,"£11,000","£572,000",21,"D/WB L, M C",Netherlands,chelsea-f.c.
+255,Jamie Cumming,"£10,000","£520,000",23,GK,England,chelsea-f.c.
+256,Michael Olise,"£100,000","£5,200,000",21,AM RC,France,crystal-palace
+257,Dean Henderson,"£100,000","£5,200,000",26,GK,England,crystal-palace
+258,Odsonne Edouard,"£84,000","£4,368,000",25,"AM LC, F C",France,crystal-palace
+259,Joachim Andersen,"£75,000","£3,900,000",27,D C,Denmark,crystal-palace
+260,Jefferson Lerma,"£70,000","£3,640,000",28,DM,Colombia,crystal-palace
+261,Jeffrey Schlupp,"£60,000","£3,120,000",30,AM LC,Ghana,crystal-palace
+262,Rob Holding,"£58,000","£3,016,000",27,D C,England,crystal-palace
+263,Chris Richards,"£52,000","£2,704,000",23,D RC,U.S.A.,crystal-palace
+264,Jordan Ayew,"£50,000","£2,600,000",31,"AM RL, ST",Ghana,crystal-palace
+265,Jean-Philippe Mateta,"£50,000","£2,600,000",26,ST,France,crystal-palace
+266,Ebere Eze,"£47,000","£2,444,000",25,AM LC,England,crystal-palace
+268,Cheick Doucouré,"£47,000","£2,444,000",23,DM,Mali,crystal-palace
+269,Will Hughes,"£46,000","£2,392,000",28,"DM, M RC",England,crystal-palace
+270,Jaïro Riedewald,"£45,000","£2,340,000",26,"D L, DM",Netherlands,crystal-palace
+271,Marc Guéhi,"£44,000","£2,288,000",22,D C,England,crystal-palace
+272,Sam Johnstone,"£43,000","£2,236,000",30,GK,England,crystal-palace
+273,Joel Ward,"£40,000","£2,080,000",33,D RLC,England,crystal-palace
+274,Tyrick Mitchell,"£37,000","£1,924,000",23,D/WB L,England,crystal-palace
+275,Nathaniel Clyne,"£29,000","£1,508,000",32,D/WB RL,England,crystal-palace
+276,Naouirou Ahamada,"£29,000","£1,508,000",21,"DM, AM C",France,crystal-palace
+277,James Tomkins,"£25,000","£1,300,000",34,D C,England,crystal-palace
+279,Matheus França,"£24,000","£1,248,000",19,AM C,Brazil,crystal-palace
+280,Malcolm Ebiowei,"£9,000","£468,000",19,AM RL,England,crystal-palace
+281,Jesurun Rak-Sakyi,"£5,100","£265,200",20,AM RL,England,crystal-palace
+282,Nathan Ferguson,"£4,900","£254,800",22,D RLC,England,crystal-palace
+283,Remi Matthews,"£4,700","£244,400",29,GK,England,crystal-palace
+284,Tayo Adaramola,"£4,600","£239,200",19,D/WB L,Ireland,crystal-palace
+285,Joe Whitworth,"£3,100","£161,200",19,GK,England,crystal-palace
+286,Danny Imray,"£1,400","£72,800",19,D/WB R,England,crystal-palace
+287,Jack Wells-Morrison,"£1,100","£57,200",19,DM,England,crystal-palace
+288,Jordan Pickford,"£150,000","£7,800,000",29,GK,England,everton-f.c.
+289,Idrissa Gueye,"£130,000","£6,760,000",33,DM,Senegal,everton-f.c.
+290,Dominic Calvert-Lewin,"£120,000","£6,240,000",26,ST,England,everton-f.c.
+291,Abdoulaye Doucouré,"£120,000","£6,240,000",30,"DM, AM C",France,everton-f.c.
+292,André Gomes,"£120,000","£6,240,000",29,M C,Portugal,everton-f.c.
+293,James Tarkowski,"£100,000","£5,200,000",30,D C,England,everton-f.c.
+294,Dele Alli,"£100,000","£5,200,000",27,AM C,England,everton-f.c.
+295,Dwight McNeil,"£77,000","£4,004,000",23,"AM RL, ST",England,everton-f.c.
+296,Michael Keane,"£74,000","£3,848,000",30,D C,England,everton-f.c.
+297,Seamus Coleman,"£73,000","£3,796,000",34,D/WB/M R,Ireland,everton-f.c.
+298,Vitaliy Mykolenko,"£72,000","£3,744,000",24,D/WB L,Ukraine,everton-f.c.
+300,Amadou Onana,"£68,000","£3,536,000",21,DM,Belgium,everton-f.c.
+301,Ben Godfrey,"£68,000","£3,536,000",25,D RC,England,everton-f.c.
+302,Beto,"£53,000","£2,756,000",25,ST,Guinea-Bissau,everton-f.c.
+303,Arnaut Danjuma,"£50,000","£2,600,000",26,AM RL,Netherlands,everton-f.c.
+304,James Garner,"£45,000","£2,340,000",22,DM,England,everton-f.c.
+305,Ashley Young,"£43,000","£2,236,000",37,D/WB/M RL,England,everton-f.c.
+306,Jack Harrison,"£40,000","£2,080,000",26,AM RLC,England,everton-f.c.
+307,Jarrad Branthwaite,"£40,000","£2,080,000",21,D RLC,England,everton-f.c.
+308,Nathan Patterson,"£39,000","£2,028,000",21,D/WB R,Scotland,everton-f.c.
+309,Youssef Chermiti,"£23,000","£1,196,000",19,ST,Portugal,everton-f.c.
+311,João Virgínia,"£15,000","£780,000",23,GK,Portugal,everton-f.c.
+312,Lewis Dobbin,"£7,000","£364,000",20,"AM RC, F C",England,everton-f.c.
+313,Andy Lonergan,"£5,500","£286,000",39,GK,England,everton-f.c.
+314,Billy Crellin,"£4,500","£234,000",23,GK,England,everton-f.c.
+315,Ryan Astley,"£2,700","£140,400",21,D C,Wales,everton-f.c.
+316,Tyler Onyango,"£2,600","£135,200",20,DM,England,everton-f.c.
+317,Charlie Whitaker,"£2,400","£124,800",19,AM RLC,England,everton-f.c.
+318,Francis Okoronkwo,"£2,300","£119,600",18,"AM L, ST",England,everton-f.c.
+319,Kyle John,"£2,000","£104,000",22,D/WB/M R,England,everton-f.c.
+320,João Palhinha,"£100,000","£5,200,000",27,DM,Portugal,fulham
+321,Willian,"£91,000","£4,732,000",34,AM RLC,Brazil,fulham
+322,Bernd Leno,"£88,000","£4,576,000",31,GK,Germany,fulham
+323,Alex Iwobi,"£83,000","£4,316,000",27,"DM, AM C",Nigeria,fulham
+324,Raúl Jiménez,"£78,000","£4,056,000",32,ST,Mexico,fulham
+325,Issa Diop,"£66,000","£3,432,000",26,D C,France,fulham
+326,Adama Traoré,"£63,000","£3,276,000",27,AM RL,Spain,fulham
+327,Timothy Castagne,"£62,000","£3,224,000",27,D/WB/M RL,Belgium,fulham
+328,Saša Lukić,"£58,000","£3,016,000",26,"DM, AM C",Serbia,fulham
+329,Carlos Vinícius,"£57,000","£2,964,000",28,ST,Brazil,fulham
+330,Andreas Pereira,"£53,000","£2,756,000",27,AM RLC,Brazil,fulham
+332,Antonee Robinson,"£53,000","£2,756,000",25,D/WB L,U.S.A.,fulham
+333,Harrison Reed,"£51,000","£2,652,000",28,"DM, M RC",England,fulham
+334,Tosin Adarabioyo,"£47,000","£2,444,000",25,D C,England,fulham
+335,Calvin Bassey,"£47,000","£2,444,000",23,D LC,Nigeria,fulham
+336,Harry Wilson,"£41,000","£2,132,000",26,AM RLC,Wales,fulham
+337,Bobby Decordova-Reid,"£38,000","£1,976,000",30,"WB R, AM RLC",Jamaica,fulham
+338,Kenny Tete,"£35,000","£1,820,000",27,D/WB R,Netherlands,fulham
+339,Tim Ream,"£32,000","£1,664,000",35,D LC,U.S.A.,fulham
+340,Tom Cairney,"£27,000","£1,404,000",32,AM C,Scotland,fulham
+341,Fodé Ballo-Touré,"£23,000","£1,196,000",26,D/WB/M L,Senegal,fulham
+343,Steven Benda,"£16,000","£832,000",24,GK,Germany,fulham
+344,Marek Rodák,"£14,000","£728,000",26,GK,Slovakia,fulham
+345,Rodrigo Muniz,"£10,000","£520,000",22,ST,Brazil,fulham
+346,George Wickens,"£3,200","£166,400",21,GK,England,fulham
+347,Adrion Pajaziti,"£2,500","£130,000",20,AM C,Kosovo,fulham
+348,Chris Donnell,"£2,400","£124,800",19,"D C, DM",Australia,fulham
+349,Luke Harris,"£2,000","£104,000",18,AM C,Wales,fulham
+350,Matt Dibley-Dias,"£1,900","£98,800",19,AM C,New Zealand,fulham
+351,Ollie O'Neill,"£1,800","£93,600",20,AM RLC,Ireland,fulham
+352,Mohamed Salah,"£350,000","£18,200,000",31,"AM RL, ST",Egypt,liverpool-f.c.
+353,Virgil van Dijk,"£240,000","£12,480,000",31,D C,Netherlands,liverpool-f.c.
+354,Alisson,"£225,000","£11,700,000",30,GK,Brazil,liverpool-f.c.
+355,Thiago,"£200,000","£10,400,000",32,DM,Spain,liverpool-f.c.
+356,Trent Alexander-Arnold,"£192,000","£9,984,000",24,"D/WB R, DM",England,liverpool-f.c.
+357,Andrew Robertson,"£160,000","£8,320,000",29,D/WB L,Scotland,liverpool-f.c.
+358,Ryan Gravenberch,"£160,000","£8,320,000",21,"DM, AM C",Netherlands,liverpool-f.c.
+359,Alexis Mac Allister,"£150,000","£7,800,000",24,"DM, AM C",Argentina,liverpool-f.c.
+360,Darwin Núñez,"£140,000","£7,280,000",24,"AM L, ST",Uruguay,liverpool-f.c.
+361,Diogo Jota,"£140,000","£7,280,000",26,"AM RL, ST",Portugal,liverpool-f.c.
+362,Joël Matip,"£140,000","£7,280,000",31,D C,Cameroon,liverpool-f.c.
+364,Dominik Szoboszlai,"£120,000","£6,240,000",22,AM RLC,Hungary,liverpool-f.c.
+365,Cody Gakpo,"£110,000","£5,720,000",24,"AM RLC, F C",Netherlands,liverpool-f.c.
+366,Joe Gomez,"£95,000","£4,940,000",26,D RLC,England,liverpool-f.c.
+367,Luis Díaz,"£90,000","£4,680,000",26,AM RL,Colombia,liverpool-f.c.
+368,Kostas Tsimikas,"£80,000","£4,160,000",27,D/WB L,Greece,liverpool-f.c.
+369,Ibrahima Konaté,"£71,000","£3,692,000",24,D C,France,liverpool-f.c.
+370,Wataru Endo,"£71,000","£3,692,000",30,DM,Japan,liverpool-f.c.
+371,Curtis Jones,"£67,000","£3,484,000",22,AM LC,England,liverpool-f.c.
+372,Adrián,"£63,000","£3,276,000",36,GK,Spain,liverpool-f.c.
+373,Harvey Elliott,"£46,000","£2,392,000",20,AM RC,England,liverpool-f.c.
+375,Caoimhin Kelleher,"£32,000","£1,664,000",24,GK,Ireland,liverpool-f.c.
+376,Stefan Bajčetić,"£7,600","£395,200",18,"D C, DM",Spain,liverpool-f.c.
+377,Conor Bradley,"£4,400","£228,800",19,D/WB R,N.Ireland,liverpool-f.c.
+378,Luke Chambers,"£4,000","£208,000",19,D LC,England,liverpool-f.c.
+379,Ben Doak,"£3,500","£182,000",17,AM R,Scotland,liverpool-f.c.
+380,Harvey Blair,"£3,200","£166,400",19,"AM RL, ST",England,liverpool-f.c.
+381,Jarell Quansah,"£3,100","£161,200",20,D C,England,liverpool-f.c.
+382,Isaac Mabaya,"£3,100","£161,200",18,"D/WB R, DM, M RC",England,liverpool-f.c.
+383,Lee Jonas,"£3,000","£156,000",18,D C,England,liverpool-f.c.
+384,Albert Sambi Lokonga,"£53,000","£2,756,000",23,DM,Belgium,luton-town
+385,Ross Barkley,"£43,000","£2,236,000",29,AM LC,England,luton-town
+386,Marvelous Nakamba,"£34,000","£1,768,000",29,DM,Zimbabwe,luton-town
+387,Carlton Morris,"£32,000","£1,664,000",27,ST,England,luton-town
+388,Elijah Adebayo,"£32,000","£1,664,000",25,ST,England,luton-town
+389,Tahith Chong,"£32,000","£1,664,000",23,"DM, AM RLC",Netherlands,luton-town
+390,Amari'i Bell,"£28,000","£1,456,000",29,D LC,Jamaica,luton-town
+391,Thomas Kaminski,"£27,000","£1,404,000",30,GK,Belgium,luton-town
+392,Tim Krul,"£27,000","£1,404,000",35,GK,Netherlands,luton-town
+393,Ryan Giles,"£25,000","£1,300,000",23,D/WB/AM L,England,luton-town
+394,Chiedozie Ogbene,"£25,000","£1,300,000",26,"WB R, AM R, ST",Nigeria,luton-town
+396,Alfie Doughty,"£25,000","£1,300,000",23,WB/AM RL,England,luton-town
+397,Tom Lockyer,"£24,000","£1,248,000",28,D C,Wales,luton-town
+398,Pelly-Ruddock Mpanzu,"£24,000","£1,248,000",29,DM,England,luton-town
+399,Dan Potts,"£24,000","£1,248,000",29,D LC,England,luton-town
+400,Cauley Woodrow,"£24,000","£1,248,000",28,AM/F C,England,luton-town
+401,Jacob Brown,"£23,000","£1,196,000",25,"AM R, ST",England,luton-town
+402,Gabriel Osho,"£23,000","£1,196,000",24,D RC,England,luton-town
+403,Reece Burke,"£23,000","£1,196,000",26,D RC,England,luton-town
+404,Jordan Clark,"£22,000","£1,144,000",29,AM RC,England,luton-town
+405,Issa Kaboré,"£21,000","£1,092,000",22,D/WB R,Burkina Faso,luton-town
+407,Mads Andersen,"£21,000","£1,092,000",25,D C,Denmark,luton-town
+408,Teden Mengi,"£17,000","£884,000",21,D C,England,luton-town
+409,Luke Berry,"£16,000","£832,000",30,AM C,England,luton-town
+410,James Shea,"£14,000","£728,000",32,GK,England,luton-town
+411,Marcus Daws,£680,"£35,360",19,AM RC,N.Ireland,luton-town
+412,Jameson Horlick,£510,"£26,520",20,GK,England,luton-town
+413,Jacob Cowler,£510,"£26,520",19,GK,England,luton-town
+414,Axel Piesold,£450,"£23,400",18,M C,England,luton-town
+415,Archie Heron,£450,"£23,400",18,ST,England,luton-town
+416,Kevin De Bruyne,"£340,000","£17,680,000",32,AM RLC,Belgium,manchester-city-f.c.
+417,Erling Haaland,"£340,000","£17,680,000",22,ST,Norway,manchester-city-f.c.
+418,Jack Grealish,"£270,000","£14,040,000",27,AM RLC,England,manchester-city-f.c.
+419,Bernardo Silva,"£250,000","£13,000,000",28,AM RC,Portugal,manchester-city-f.c.
+420,John Stones,"£200,000","£10,400,000",29,"D RC, DM",England,manchester-city-f.c.
+421,Joško Gvardiol,"£200,000","£10,400,000",21,D LC,Croatia,manchester-city-f.c.
+422,Ederson,"£180,000","£9,360,000",29,GK,Brazil,manchester-city-f.c.
+423,Kyle Walker,"£180,000","£9,360,000",33,D/WB R,England,manchester-city-f.c.
+424,Rúben Dias,"£175,000","£9,100,000",26,D C,Portugal,manchester-city-f.c.
+425,Rodri,"£165,000","£8,580,000",27,"D C, DM",Spain,manchester-city-f.c.
+426,Nathan Aké,"£165,000","£8,580,000",28,"D LC, DM",Netherlands,manchester-city-f.c.
+428,Mateo Kovačić,"£165,000","£8,580,000",29,DM,Croatia,manchester-city-f.c.
+429,Kalvin Phillips,"£165,000","£8,580,000",27,DM,England,manchester-city-f.c.
+430,Phil Foden,"£130,000","£6,760,000",23,AM RLC,England,manchester-city-f.c.
+431,Manuel Akanji,"£130,000","£6,760,000",27,D RC,Switzerland,manchester-city-f.c.
+432,Julián Álvarez,"£130,000","£6,760,000",23,"AM RLC, F C",Argentina,manchester-city-f.c.
+433,Matheus Nunes,"£130,000","£6,760,000",24,AM RC,Portugal,manchester-city-f.c.
+434,Stefan Ortega,"£58,000","£3,016,000",30,GK,Germany,manchester-city-f.c.
+435,Zack Steffen,"£45,000","£2,340,000",28,GK,U.S.A.,manchester-city-f.c.
+436,Jérémy Doku,"£40,000","£2,080,000",21,"AM RL, ST",Belgium,manchester-city-f.c.
+437,Sergio Gómez,"£38,000","£1,976,000",22,"D/WB L, AM RL",Spain,manchester-city-f.c.
+439,Scott Carson,"£28,000","£1,456,000",37,GK,England,manchester-city-f.c.
+440,Kayky,"£25,000","£1,300,000",20,AM R,Brazil,manchester-city-f.c.
+441,Rico Lewis,"£23,000","£1,196,000",18,"D/WB R, DM",England,manchester-city-f.c.
+442,Oscar Bobb,"£6,800","£353,600",19,AM RLC,Norway,manchester-city-f.c.
+443,Ben Knight,"£6,500","£338,000",21,AM RLC,England,manchester-city-f.c.
+444,Farid Alfa-Ruprecht,"£5,300","£275,600",17,AM RL,Germany,manchester-city-f.c.
+445,Lewis Fiorini,"£5,000","£260,000",21,AM C,Scotland,manchester-city-f.c.
+446,Tomas Galvez,"£4,600","£239,200",18,D/WB L,Finland,manchester-city-f.c.
+447,Alfie Harrison,"£3,500","£182,000",17,AM C,England,manchester-city-f.c.
+448,Raphaël Varane,"£350,000","£18,200,000",30,D C,France,manchester-united-f.c.
+449,Marcus Rashford,"£300,000","£15,600,000",25,"AM L, ST",England,manchester-united-f.c.
+450,Casemiro,"£300,000","£15,600,000",31,DM,Brazil,manchester-united-f.c.
+451,Jadon Sancho,"£275,000","£14,300,000",23,AM RLC,England,manchester-united-f.c.
+452,Bruno Fernandes,"£250,000","£13,000,000",28,AM RC,Portugal,manchester-united-f.c.
+453,Anthony Martial,"£250,000","£13,000,000",27,"AM L, ST",France,manchester-united-f.c.
+454,Luke Shaw,"£200,000","£10,400,000",27,D LC,England,manchester-united-f.c.
+455,Mason Mount,"£200,000","£10,400,000",24,AM RLC,England,manchester-united-f.c.
+456,Harry Maguire,"£200,000","£10,400,000",30,D C,England,manchester-united-f.c.
+457,Christian Eriksen,"£170,000","£8,840,000",31,"DM, AM C",Denmark,manchester-united-f.c.
+458,Victor Lindelöf,"£170,000","£8,840,000",28,D C,Sweden,manchester-united-f.c.
+460,Antony,"£150,000","£7,800,000",23,AM R,Brazil,manchester-united-f.c.
+461,Donny van de Beek,"£140,000","£7,280,000",26,AM C,Netherlands,manchester-united-f.c.
+462,Lisandro Martínez,"£120,000","£6,240,000",25,D LC,Argentina,manchester-united-f.c.
+463,André Onana,"£110,000","£5,720,000",27,GK,Cameroon,manchester-united-f.c.
+464,Aaron Wan-Bissaka,"£100,000","£5,200,000",25,D R,England,manchester-united-f.c.
+465,Diogo Dalot,"£87,000","£4,524,000",24,D/WB RL,Portugal,manchester-united-f.c.
+466,Rasmus Højlund,"£78,000","£4,056,000",20,ST,Denmark,manchester-united-f.c.
+467,Sergio Reguilón,"£78,000","£4,056,000",26,D/WB L,Spain,manchester-united-f.c.
+468,Scott McTominay,"£78,000","£4,056,000",26,"DM, AM C",Scotland,manchester-united-f.c.
+469,Tom Heaton,"£62,000","£3,224,000",37,GK,England,manchester-united-f.c.
+471,Alejandro Garnacho,"£53,000","£2,756,000",19,"AM RL, ST",Argentina,manchester-united-f.c.
+472,Jonny Evans,"£50,000","£2,600,000",35,D C,N.Ireland,manchester-united-f.c.
+473,Tyrell Malacia,"£47,000","£2,444,000",23,D/WB L,Netherlands,manchester-united-f.c.
+474,Altay Bayındır,"£43,000","£2,236,000",25,GK,Türkiye,manchester-united-f.c.
+475,Sofyan Amrabat,"£30,000","£1,560,000",26,DM,Morocco,manchester-united-f.c.
+476,Amad Diallo,"£28,000","£1,456,000",20,"AM RLC, F C",Ivory Coast,manchester-united-f.c.
+477,Facundo Pellistri,"£27,000","£1,404,000",21,AM R,Uruguay,manchester-united-f.c.
+478,Hannibal,"£13,000","£676,000",20,AM C,Tunisia,manchester-united-f.c.
+479,Kobbie Mainoo,"£10,000","£520,000",18,"DM, AM C",England,manchester-united-f.c.
+480,Bruno Guimarães,"£180,000","£9,360,000",25,DM,Brazil,newcastle-united-f.c.
+481,Sandro Tonali,"£133,000","£6,916,000",23,DM,Italy,newcastle-united-f.c.
+482,Alexander Isak,"£120,000","£6,240,000",23,ST,Sweden,newcastle-united-f.c.
+483,Harvey Barnes,"£120,000","£6,240,000",25,AM RLC,England,newcastle-united-f.c.
+484,Callum Wilson,"£110,000","£5,720,000",31,ST,England,newcastle-united-f.c.
+485,Kieran Trippier,"£100,000","£5,200,000",32,D/WB R,England,newcastle-united-f.c.
+486,Nick Pope,"£100,000","£5,200,000",31,GK,England,newcastle-united-f.c.
+487,Miguel Almirón,"£100,000","£5,200,000",29,AM RLC,Paraguay,newcastle-united-f.c.
+488,Anthony Gordon,"£93,000","£4,836,000",22,"AM RLC, F C",England,newcastle-united-f.c.
+489,Sven Botman,"£88,000","£4,576,000",23,D LC,Netherlands,newcastle-united-f.c.
+490,Joelinton,"£80,000","£4,160,000",26,"AM LC, F C",Brazil,newcastle-united-f.c.
+492,Joe Willock,"£80,000","£4,160,000",23,M C,England,newcastle-united-f.c.
+493,Matthew Targett,"£79,000","£4,108,000",27,D/WB L,England,newcastle-united-f.c.
+494,Dan Burn,"£72,000","£3,744,000",31,D LC,England,newcastle-united-f.c.
+495,Tino Livramento,"£62,000","£3,224,000",20,D/WB R,England,newcastle-united-f.c.
+496,Jamaal Lascelles,"£55,000","£2,860,000",29,D C,England,newcastle-united-f.c.
+497,Lewis Hall,"£50,000","£2,600,000",18,"D LC, DM, AM C",England,newcastle-united-f.c.
+498,Fabian Schär,"£47,000","£2,444,000",31,D C,Switzerland,newcastle-united-f.c.
+499,Martin Dúbravka,"£44,000","£2,288,000",34,GK,Slovakia,newcastle-united-f.c.
+500,Matt Ritchie,"£44,000","£2,288,000",33,"WB L, AM RL",Scotland,newcastle-united-f.c.
+501,Javi Manquillo,"£40,000","£2,080,000",29,D/WB RL,Spain,newcastle-united-f.c.
+503,Paul Dummett,"£39,000","£2,028,000",31,D LC,Wales,newcastle-united-f.c.
+504,Emil Krafth,"£37,000","£1,924,000",28,D/WB R,Sweden,newcastle-united-f.c.
+505,Jacob Murphy,"£35,000","£1,820,000",28,AM RL,England,newcastle-united-f.c.
+506,Loris Karius,"£30,000","£1,560,000",30,GK,Germany,newcastle-united-f.c.
+507,Sean Longstaff,"£28,000","£1,456,000",25,DM,England,newcastle-united-f.c.
+508,Elliot Anderson,"£14,000","£728,000",20,AM RLC,Scotland,newcastle-united-f.c.
+509,Mark Gillespie,"£5,900","£306,800",31,GK,England,newcastle-united-f.c.
+510,Charlie Wiggett,"£3,400","£176,800",20,D C,England,newcastle-united-f.c.
+511,Jordan Hackett,"£3,100","£161,200",19,D/WB L,England,newcastle-united-f.c.
+512,Divock Origi,"£87,000","£4,524,000",28,ST,Belgium,nottingham-forest
+513,Callum Hudson-Odoi,"£82,000","£4,264,000",22,AM RLC,England,nottingham-forest
+514,Chris Wood,"£82,000","£4,264,000",31,ST,New Zealand,nottingham-forest
+515,Ibrahim Sangaré,"£81,000","£4,212,000",25,DM,Ivory Coast,nottingham-forest
+516,Felipe,"£72,000","£3,744,000",34,D C,Brazil,nottingham-forest
+517,Moussa Niakhaté,"£64,000","£3,328,000",27,D LC,Senegal,nottingham-forest
+518,Andrey Santos,"£53,000","£2,756,000",19,DM,Brazil,nottingham-forest
+519,Morgan Gibbs-White,"£49,000","£2,548,000",23,AM RC,England,nottingham-forest
+520,Anthony Elanga,"£48,000","£2,496,000",21,"AM RL, ST",Sweden,nottingham-forest
+521,Willy Boly,"£46,000","£2,392,000",32,D C,Ivory Coast,nottingham-forest
+522,Orel Mangala,"£44,000","£2,288,000",25,DM,Belgium,nottingham-forest
+524,Serge Aurier,"£43,000","£2,236,000",30,D/WB R,Ivory Coast,nottingham-forest
+525,Andrew Omobamidele,"£43,000","£2,236,000",21,D C,Ireland,nottingham-forest
+526,Taiwo Awoniyi,"£42,000","£2,184,000",25,ST,Nigeria,nottingham-forest
+527,Cheikhou Kouyaté,"£42,000","£2,184,000",33,"D C, DM",Senegal,nottingham-forest
+528,Harry Arter,"£41,000","£2,132,000",33,DM,Ireland,nottingham-forest
+529,Joe Worrall,"£40,000","£2,080,000",26,D C,England,nottingham-forest
+530,Matt Turner,"£39,000","£2,028,000",29,GK,U.S.A.,nottingham-forest
+531,Nicolás Domínguez,"£39,000","£2,028,000",25,DM,Argentina,nottingham-forest
+532,Odysseas Vlachodimos,"£39,000","£2,028,000",29,GK,Greece,nottingham-forest
+533,Neco Williams,"£39,000","£2,028,000",22,D/WB RL,Wales,nottingham-forest
+535,Harry Toffolo,"£36,000","£1,872,000",27,D/WB L,England,nottingham-forest
+536,Ola Aina,"£34,000","£1,768,000",26,D/WB/M RL,Nigeria,nottingham-forest
+537,Danilo,"£32,000","£1,664,000",22,DM,Brazil,nottingham-forest
+538,Nuno Tavares,"£29,000","£1,508,000",23,D/WB/M L,Portugal,nottingham-forest
+539,Murillo,"£29,000","£1,508,000",20,"D LC, DM",Brazil,nottingham-forest
+540,Ryan Yates,"£23,000","£1,196,000",25,DM,England,nottingham-forest
+541,Scott McKenna,"£23,000","£1,196,000",26,D C,Scotland,nottingham-forest
+542,Gonzalo Montiel,"£18,000","£936,000",26,D/WB R,Argentina,nottingham-forest
+543,Wayne Hennessey,"£16,000","£832,000",36,GK,Wales,nottingham-forest
+544,Cameron Archer,"£37,000","£1,924,000",21,ST,England,sheffield-united-f.c.
+545,Gustavo Hamer,"£36,000","£1,872,000",26,DM,Netherlands,sheffield-united-f.c.
+546,Rhian Brewster,"£34,000","£1,768,000",23,ST,England,sheffield-united-f.c.
+547,John Egan,"£30,000","£1,560,000",30,D C,Ireland,sheffield-united-f.c.
+548,Anel Ahmedhodžić,"£28,000","£1,456,000",24,D C,Bosnia & Herzegovina,sheffield-united-f.c.
+549,Vinicius Souza,"£27,000","£1,404,000",24,DM,Brazil,sheffield-united-f.c.
+550,George Baldock,"£26,000","£1,352,000",30,D/WB R,Greece,sheffield-united-f.c.
+551,Oliver Norwood,"£24,000","£1,248,000",32,DM,N.Ireland,sheffield-united-f.c.
+552,Oli McBurnie,"£24,000","£1,248,000",27,ST,Scotland,sheffield-united-f.c.
+553,Chris Basham,"£24,000","£1,248,000",34,"D C, DM",England,sheffield-united-f.c.
+554,Auston Trusty,"£23,000","£1,196,000",24,D C,U.S.A.,sheffield-united-f.c.
+556,Tom Davies,"£22,000","£1,144,000",25,DM,England,sheffield-united-f.c.
+557,Jayden Bogle,"£22,000","£1,144,000",22,D/WB R,England,sheffield-united-f.c.
+558,Luke Thomas,"£20,000","£1,040,000",22,D/WB L,England,sheffield-united-f.c.
+559,John Fleck,"£20,000","£1,040,000",31,DM,Scotland,sheffield-united-f.c.
+560,Jack Robinson,"£20,000","£1,040,000",29,D LC,England,sheffield-united-f.c.
+561,Anis Slimane,"£20,000","£1,040,000",22,AM C,Tunisia,sheffield-united-f.c.
+562,Max Lowe,"£19,000","£988,000",26,D/WB L,England,sheffield-united-f.c.
+563,Wes Foderingham,"£18,000","£936,000",32,GK,England,sheffield-united-f.c.
+564,Ben Osborn,"£18,000","£936,000",28,"WB L, M LC",England,sheffield-united-f.c.
+565,Bénie Traoré,"£18,000","£936,000",20,"AM RL, ST",Ivory Coast,sheffield-united-f.c.
+567,Rhys Norrington-Davies,"£16,000","£832,000",24,D LC,Wales,sheffield-united-f.c.
+568,Adam Davies,"£15,000","£780,000",30,GK,Wales,sheffield-united-f.c.
+569,Ismaïla Coulibaly,"£11,000","£572,000",22,"DM, AM C",Mali,sheffield-united-f.c.
+570,James McAtee,"£10,000","£520,000",20,AM C,England,sheffield-united-f.c.
+571,William Osula,"£3,400","£176,800",19,"AM RL, ST",Denmark,sheffield-united-f.c.
+572,Yasser Larouci,"£2,300","£119,600",22,D/WB/AM L,France,sheffield-united-f.c.
+573,Andre Brooks,£850,"£44,200",19,"WB L, AM LC",England,sheffield-united-f.c.
+574,Jili Buyabu,£810,"£42,120",20,D/WB/AM L,England,sheffield-united-f.c.
+575,Femi Seriki,£800,"£41,600",20,D/WB/AM R,England,sheffield-united-f.c.
+576,Heung-Min Son,"£197,000","£10,244,000",30,"AM L, ST",South Korea,tottenham-hotspur-f.c.
+577,Ivan Perišić,"£180,000","£9,360,000",34,WB/AM L,Croatia,tottenham-hotspur-f.c.
+578,Cristian Romero,"£175,000","£9,100,000",25,D C,Argentina,tottenham-hotspur-f.c.
+579,Richarlison,"£175,000","£9,100,000",26,"AM RL, ST",Brazil,tottenham-hotspur-f.c.
+580,James Maddison,"£170,000","£8,840,000",26,AM RLC,England,tottenham-hotspur-f.c.
+581,Dejan Kulusevski,"£140,000","£7,280,000",23,AM RC,Sweden,tottenham-hotspur-f.c.
+582,Pedro Porro,"£130,000","£6,760,000",23,D/WB/M R,Spain,tottenham-hotspur-f.c.
+583,Hugo Lloris,"£120,000","£6,240,000",36,GK,France,tottenham-hotspur-f.c.
+584,Pierre-Emile Højbjerg,"£110,000","£5,720,000",27,DM,Denmark,tottenham-hotspur-f.c.
+585,Yves Bissouma,"£100,000","£5,200,000",26,DM,Mali,tottenham-hotspur-f.c.
+586,Rodrigo Bentancur,"£100,000","£5,200,000",26,DM,Uruguay,tottenham-hotspur-f.c.
+588,Micky van de Ven,"£100,000","£5,200,000",22,D LC,Netherlands,tottenham-hotspur-f.c.
+589,Giovani Lo Celso,"£100,000","£5,200,000",27,"DM, AM LC",Argentina,tottenham-hotspur-f.c.
+590,Ben Davies,"£100,000","£5,200,000",30,D LC,Wales,tottenham-hotspur-f.c.
+591,Eric Dier,"£100,000","£5,200,000",29,D C,England,tottenham-hotspur-f.c.
+592,Bryan Gil,"£83,000","£4,316,000",22,AM RLC,Spain,tottenham-hotspur-f.c.
+593,Guglielmo Vicario,"£81,000","£4,212,000",26,GK,Italy,tottenham-hotspur-f.c.
+594,Emerson Royal,"£77,000","£4,004,000",24,D/WB R,Brazil,tottenham-hotspur-f.c.
+595,Fraser Forster,"£77,000","£4,004,000",35,GK,England,tottenham-hotspur-f.c.
+596,Brennan Johnson,"£63,000","£3,276,000",22,"AM RC, F C",Wales,tottenham-hotspur-f.c.
+597,Ryan Sessegnon,"£58,000","£3,016,000",23,D/WB/AM L,England,tottenham-hotspur-f.c.
+599,Manor Solomon,"£54,000","£2,808,000",23,AM RLC,Israel,tottenham-hotspur-f.c.
+600,Destiny Udogie,"£52,000","£2,704,000",20,D/WB L,Italy,tottenham-hotspur-f.c.
+601,Oliver Skipp,"£49,000","£2,548,000",22,DM,England,tottenham-hotspur-f.c.
+602,Alejo Veliz,"£33,000","£1,716,000",19,ST,Argentina,tottenham-hotspur-f.c.
+603,Pape Matar Sarr,"£29,000","£1,508,000",20,M C,Senegal,tottenham-hotspur-f.c.
+604,Ashley Phillips,"£23,000","£1,196,000",18,D C,England,tottenham-hotspur-f.c.
+605,Jude Soonsup-Bell,"£7,100","£369,200",19,ST,England,tottenham-hotspur-f.c.
+606,Brooklyn Lyons-Foster,"£4,500","£234,000",22,D RLC,England,tottenham-hotspur-f.c.
+607,Alfie Whiteman,"£4,500","£234,000",24,GK,England,tottenham-hotspur-f.c.
+608,Lucas Paquetá,"£130,000","£6,760,000",25,"DM, AM LC",Brazil,west-ham-united-f.c.
+609,Jarrod Bowen,"£125,000","£6,500,000",26,AM RLC,England,west-ham-united-f.c.
+610,Danny Ings,"£125,000","£6,500,000",30,ST,England,west-ham-united-f.c.
+611,Alphonse Areola,"£120,000","£6,240,000",30,GK,France,west-ham-united-f.c.
+612,Kurt Zouma,"£100,000","£5,200,000",28,D RC,France,west-ham-united-f.c.
+613,James Ward-Prowse,"£100,000","£5,200,000",28,"DM, AM C",England,west-ham-united-f.c.
+614,Edson Álvarez,"£100,000","£5,200,000",25,"D C, DM",Mexico,west-ham-united-f.c.
+615,Emerson,"£97,000","£5,044,000",28,D/WB L,Italy,west-ham-united-f.c.
+616,Thilo Kehrer,"£92,000","£4,784,000",26,"D RC, DM",Germany,west-ham-united-f.c.
+617,Konstantinos Mavropanos,"£80,000","£4,160,000",25,D RC,Greece,west-ham-united-f.c.
+618,Mohammed Kudus,"£79,000","£4,108,000",22,"AM RC, F C",Ghana,west-ham-united-f.c.
+620,Pablo Fornals,"£79,000","£4,108,000",27,AM LC,Spain,west-ham-united-f.c.
+621,Michail Antonio,"£69,000","£3,588,000",33,"AM R, ST",Jamaica,west-ham-united-f.c.
+622,Nayef Aguerd,"£64,000","£3,328,000",27,D C,Morocco,west-ham-united-f.c.
+623,Maxwel Cornet,"£64,000","£3,328,000",26,"AM RL, ST",Ivory Coast,west-ham-united-f.c.
+624,Łukasz Fabiański,"£60,000","£3,120,000",38,GK,Poland,west-ham-united-f.c.
+625,Saïd Benrahma,"£58,000","£3,016,000",27,AM RLC,Algeria,west-ham-united-f.c.
+626,Angelo Ogbonna,"£53,000","£2,756,000",35,D C,Italy,west-ham-united-f.c.
+627,Aaron Cresswell,"£53,000","£2,756,000",33,D LC,England,west-ham-united-f.c.
+628,Vladimír Coufal,"£52,000","£2,704,000",30,D/WB R,Czechia,west-ham-united-f.c.
+629,Tomáš Souček,"£47,000","£2,444,000",28,DM,Czechia,west-ham-united-f.c.
+631,Ben Johnson,"£33,000","£1,716,000",23,D RL,England,west-ham-united-f.c.
+632,Luizão,"£20,000","£1,040,000",21,D C,Brazil,west-ham-united-f.c.
+633,Conor Coventry,"£5,400","£280,800",23,DM,Ireland,west-ham-united-f.c.
+634,Daniel Chesters,"£2,400","£124,800",21,D/AM R,England,west-ham-united-f.c.
+635,Sean Moore,"£1,600","£83,200",17,"AM RL, ST",Ireland,west-ham-united-f.c.
+636,Thierry Nevers,"£1,600","£83,200",21,"AM RL, ST",England,west-ham-united-f.c.
+637,Billy Bates,"£1,500","£78,000",18,D LC,England,west-ham-united-f.c.
+638,Callum Marshall,"£1,400","£72,800",18,"AM RL, ST",N.Ireland,west-ham-united-f.c.
+639,George Earthy,"£1,200","£62,400",18,AM C,England,west-ham-united-f.c.
+640,Pablo Sarabia,"£110,000","£5,720,000",31,AM RLC,Spain,wolverhampton-wanderers-f.c.
+641,Nélson Semedo,"£84,000","£4,368,000",29,D/WB R,Portugal,wolverhampton-wanderers-f.c.
+642,Matheus Cunha,"£79,000","£4,108,000",24,"AM RLC, F C",Brazil,wolverhampton-wanderers-f.c.
+643,Jonny,"£75,000","£3,900,000",29,D/WB RL,Spain,wolverhampton-wanderers-f.c.
+644,Craig Dawson,"£67,000","£3,484,000",33,D C,England,wolverhampton-wanderers-f.c.
+645,José Sá,"£65,000","£3,380,000",30,GK,Portugal,wolverhampton-wanderers-f.c.
+646,Hwang Hee-Chan,"£56,000","£2,912,000",27,"AM RL, ST",South Korea,wolverhampton-wanderers-f.c.
+647,João Gomes,"£55,000","£2,860,000",22,DM,Brazil,wolverhampton-wanderers-f.c.
+648,Boubacar Traoré,"£53,000","£2,756,000",21,DM,Mali,wolverhampton-wanderers-f.c.
+649,Matt Doherty,"£49,000","£2,548,000",31,D/WB R,Ireland,wolverhampton-wanderers-f.c.
+650,Max Kilman,"£49,000","£2,548,000",26,D C,England,wolverhampton-wanderers-f.c.
+652,Mario Lemina,"£49,000","£2,548,000",29,DM,Gabon,wolverhampton-wanderers-f.c.
+653,Jean-Ricner Bellegarde,"£45,000","£2,340,000",25,AM RC,France,wolverhampton-wanderers-f.c.
+654,Saša Kalajdžić,"£43,000","£2,236,000",25,AM/F C,Austria,wolverhampton-wanderers-f.c.
+655,Fábio Silva,"£42,000","£2,184,000",20,ST,Portugal,wolverhampton-wanderers-f.c.
+656,Pedro Neto,"£39,000","£2,028,000",23,"AM RLC, F C",Portugal,wolverhampton-wanderers-f.c.
+657,Rayan Aït-Nouri,"£33,000","£1,716,000",22,D/WB L,France,wolverhampton-wanderers-f.c.
+658,Santiago Bueno,"£28,000","£1,456,000",24,D C,Uruguay,wolverhampton-wanderers-f.c.
+659,Enso González,"£27,000","£1,404,000",18,AM R,Paraguay,wolverhampton-wanderers-f.c.
+660,Bruno Jordão,"£18,000","£936,000",24,"DM, AM C",Portugal,wolverhampton-wanderers-f.c.
+661,Daniel Bentley,"£17,000","£884,000",29,GK,England,wolverhampton-wanderers-f.c.
+663,Joe Hodge,"£10,000","£520,000",20,DM,Ireland,wolverhampton-wanderers-f.c.
+664,Toti,"£7,600","£395,200",24,D LC,Portugal,wolverhampton-wanderers-f.c.
+665,Tommy Doyle,"£7,000","£364,000",21,DM,England,wolverhampton-wanderers-f.c.
+666,Hugo Bueno,"£5,200","£270,400",20,D/WB L,Spain,wolverhampton-wanderers-f.c.
+667,Tom King,"£4,600","£239,200",28,GK,Wales,wolverhampton-wanderers-f.c.
+668,Aaron Keto-Diyawa,"£2,500","£130,000",19,D/WB/AM L,England,wolverhampton-wanderers-f.c.
+669,Kam Kandola,"£2,000","£104,000",19,D C,England,wolverhampton-wanderers-f.c.
+670,Matthew Whittingham,"£1,900","£98,800",18,"D L, AM LC",England,wolverhampton-wanderers-f.c.
+671,Owen Farmer,"£1,800","£93,600",18,AM/F C,England,wolverhampton-wanderers-f.c.
