@@ -1,0 +1,198 @@
+league,season,team,nation,pos,age,born,90s,SCA_SCA,SCA_SCA90,SCA Types_PassLive,SCA Types_PassDead,SCA Types_TO,SCA Types_Sh,SCA Types_Fld,SCA Types_Def,GCA_GCA,GCA_GCA90,GCA Types_PassLive,GCA Types_PassDead,GCA Types_TO,GCA Types_Sh,GCA Types_Fld,GCA Types_Def,player,weekly wage,yearly salary
+ENG-Premier League,2425,Arsenal,ENG,"FW,MF",25,2001,14.1,89,6.32,52,17,9,8,3,0,21,1.49,12,5,2,1,1,0,Bukayo Saka,250000.0,13000000.0
+ENG-Premier League,2425,Arsenal,ENG,"FW,MF",25,2007,6.6,16,2.42,8,2,3,2,1,0,2,0.3,2,0,0,0,0,0,Ethan Nwaneri,,
+ENG-Premier League,2425,Arsenal,BRA,FW,25,1997,6.8,18,2.66,10,0,1,5,1,1,4,0.59,1,0,0,3,0,0,Gabriel Jesus,120000.0,6240000.0
+ENG-Premier League,2425,Arsenal,BRA,"FW,MF",25,2001,16.6,41,2.47,34,1,4,1,1,0,3,0.18,3,0,0,0,0,0,Gabriel Martinelli,200000.0,10400000.0
+ENG-Premier League,2425,Arsenal,GER,"FW,MF",25,1999,20.4,41,2.01,34,0,1,6,0,0,3,0.15,2,0,0,1,0,0,Kai Havertz,220000.0,11440000.0
+ENG-Premier League,2425,Arsenal,SCO,"DF,FW",25,1997,0.9,3,3.38,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Kieran Tierney,,
+ENG-Premier League,2425,Arsenal,BEL,FW,25,1994,20.1,70,3.48,55,2,4,4,4,1,6,0.3,6,0,0,0,0,0,Leandro Trossard,110000.0,5720000.0
+ENG-Premier League,2425,Arsenal,ESP,"MF,FW",25,1996,11.8,34,2.89,30,0,0,3,1,0,3,0.25,3,0,0,0,0,0,Mikel Merino,,
+ENG-Premier League,2425,Arsenal,ENG,"FW,MF",25,1994,3.4,12,3.48,8,0,2,2,0,0,1,0.29,1,0,0,0,0,0,Raheem Sterling,350000.0,18200000.0
+ENG-Premier League,2425,Arsenal,ENG,FW,25,1999,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Reiss Nelson,88000.0,4576000.0
+ENG-Premier League,2425,Aston Villa,NED,FW,25,1999,1.9,3,1.58,2,0,1,0,0,0,0,0.0,0,0,0,0,0,0,Donyell Malen,,
+ENG-Premier League,2425,Aston Villa,ARG,"MF,FW",25,1996,1.1,3,2.76,2,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Emi Buendía,,
+ENG-Premier League,2425,Aston Villa,ENG,"FW,MF",25,2001,13.9,42,3.03,32,0,4,1,5,0,6,0.43,6,0,0,0,0,0,Jacob Ramsey,75000.0,3900000.0
+ENG-Premier League,2425,Aston Villa,ENG,"FW,MF",25,2002,3.7,5,1.36,3,0,0,0,1,1,0,0.0,0,0,0,0,0,0,Jaden Philogene Bidace,,
+ENG-Premier League,2425,Aston Villa,SCO,"MF,FW",25,1994,19.7,58,2.94,46,5,0,3,3,1,5,0.25,5,0,0,0,0,0,John McGinn,75000.0,3900000.0
+ENG-Premier League,2425,Aston Villa,COL,FW,25,2003,7.1,18,2.54,9,0,0,4,3,2,1,0.14,0,0,0,0,0,1,Jáder Durán,,
+ENG-Premier League,2425,Aston Villa,JAM,"FW,MF",25,1997,12.6,38,3.01,23,1,8,3,3,0,4,0.32,4,0,0,0,0,0,Leon Bailey,90000.0,4680000.0
+ENG-Premier League,2425,Aston Villa,ESP,"MF,FW",25,1996,2.3,7,3.04,4,3,0,0,0,0,0,0.0,0,0,0,0,0,0,Marco Asensio,,
+ENG-Premier League,2425,Aston Villa,ENG,FW,25,1997,2.2,17,7.57,10,1,3,1,2,0,3,1.34,2,0,0,1,0,0,Marcus Rashford,300000.0,15600000.0
+ENG-Premier League,2425,Aston Villa,POL,"DF,FW",25,1997,15.5,16,1.03,14,1,1,0,0,0,1,0.06,1,0,0,0,0,0,Matty Cash,69000.0,3588000.0
+ENG-Premier League,2425,Aston Villa,ENG,"MF,FW",25,2002,26.0,80,3.08,61,0,8,7,4,0,9,0.35,7,0,1,0,1,0,Morgan Rogers,,
+ENG-Premier League,2425,Aston Villa,ENG,FW,25,1995,22.8,45,1.97,30,0,4,6,5,0,10,0.44,6,0,1,1,2,0,Ollie Watkins,120000.0,6240000.0
+ENG-Premier League,2425,Bournemouth,GHA,FW,25,2000,26.4,98,3.71,65,1,15,11,4,2,10,0.38,7,0,1,0,2,0,Antoine Semenyo,48000.0,2496000.0
+ENG-Premier League,2425,Bournemouth,BFA,FW,25,2002,16.8,55,3.28,44,0,1,9,0,1,6,0.36,4,0,1,1,0,0,Dango Ouattara,42000.0,2184000.0
+ENG-Premier League,2425,Bournemouth,ENG,FW,25,2003,0.7,5,7.03,4,0,1,0,0,0,0,0.0,0,0,0,0,0,0,Daniel Jebbison,,
+ENG-Premier League,2425,Bournemouth,WAL,FW,25,1997,8.0,27,3.36,22,2,2,1,0,0,1,0.12,0,0,0,1,0,0,David Brooks,37000.0,1924000.0
+ENG-Premier League,2425,Bournemouth,TUR,"FW,MF",25,1997,3.8,9,2.35,6,0,0,2,1,0,3,0.78,2,0,0,0,1,0,Enes Ünal,,
+ENG-Premier League,2425,Bournemouth,BRA,FW,25,1999,16.2,45,2.79,27,0,3,6,9,0,7,0.43,1,0,1,1,4,0,Evanilson,,
+ENG-Premier League,2425,Bournemouth,NED,"MF,FW",25,1999,20.6,82,3.97,58,8,6,5,4,1,11,0.53,10,0,0,0,1,0,Justin Kluivert,70000.0,3640000.0
+ENG-Premier League,2425,Bournemouth,COL,"FW,MF",25,1999,2.4,13,5.32,10,0,1,2,0,0,1,0.41,1,0,0,0,0,0,Luis Sinisterra,39000.0,2028000.0
+ENG-Premier League,2425,Bournemouth,ENG,"FW,MF",25,1999,15.7,79,5.02,54,12,3,6,4,0,10,0.64,5,3,0,1,1,0,Marcus Tavernier,39000.0,2028000.0
+ENG-Premier League,2425,Bournemouth,ENG,FW,25,2006,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Remy Rees-Dottin,,
+ENG-Premier League,2425,Bournemouth,MSR,FW,25,2005,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Zain Silcott-Duberry,,
+ENG-Premier League,2425,Brentford,CMR,FW,25,1999,27.9,107,3.83,79,13,9,3,3,0,13,0.47,8,1,2,2,0,0,Bryan Mbeumo,43000.0,2236000.0
+ENG-Premier League,2425,Brentford,CMR,FW,25,1999,27.9,107,3.83,79,13,9,3,3,0,13,0.47,8,1,2,2,0,0,Bryan Mbeumo,43000.0,2236000.0
+ENG-Premier League,2425,Brentford,ENG,"MF,FW",25,2001,1.2,2,1.62,2,0,0,0,0,0,1,0.81,1,0,0,0,0,0,Edmond-Paris Maghoma,,
+ENG-Premier League,2425,Brentford,POR,"FW,MF",25,2002,5.1,10,1.97,7,0,1,2,0,0,1,0.2,1,0,0,0,0,0,Fabio Carvalho,,
+ENG-Premier League,2425,Brentford,ENG,"DF,FW",25,2001,25.3,58,2.29,45,0,4,3,5,1,7,0.28,5,0,0,0,2,0,Keane Lewis-Potter,32000.0,1664000.0
+ENG-Premier League,2425,Brentford,ENG,"DF,FW",25,2001,25.3,58,2.29,45,0,4,3,5,1,7,0.28,5,0,0,0,2,0,Keane Lewis-Potter,32000.0,1664000.0
+ENG-Premier League,2425,Brentford,GER,FW,25,2001,16.6,35,2.11,20,4,3,4,3,1,8,0.48,5,0,0,3,0,0,Kevin Schade,30000.0,1560000.0
+ENG-Premier League,2425,Brentford,GER,FW,25,2001,16.6,35,2.11,20,4,3,4,3,1,8,0.48,5,0,0,3,0,0,Kevin Schade,30000.0,1560000.0
+ENG-Premier League,2425,Brentford,DEN,"MF,FW",25,2000,23.7,96,4.05,73,11,4,2,1,5,18,0.76,12,3,1,0,1,1,Mikkel Damsgaard,39000.0,2028000.0
+ENG-Premier League,2425,Brentford,DEN,"MF,FW",25,2000,23.7,96,4.05,73,11,4,2,1,5,18,0.76,12,3,1,0,1,1,Mikkel Damsgaard,39000.0,2028000.0
+ENG-Premier League,2425,Brentford,BRA,FW,25,2001,1.5,2,1.36,1,0,0,0,0,1,0,0.0,0,0,0,0,0,0,Thiago,200000.0,10400000.0
+ENG-Premier League,2425,Brentford,COD,FW,25,1996,22.4,47,2.09,31,0,3,5,7,1,6,0.27,6,0,0,0,0,0,Yoane Wissa,26000.0,1352000.0
+ENG-Premier League,2425,Brentford,COD,FW,25,1996,22.4,47,2.09,31,0,3,5,7,1,6,0.27,6,0,0,0,0,0,Yoane Wissa,26000.0,1352000.0
+ENG-Premier League,2425,Brentford,TUR,"MF,FW",25,2006,0.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Yunus Emre Konak,,
+ENG-Premier League,2425,Brighton,GER,"FW,MF",25,2004,4.2,18,4.26,13,2,2,0,1,0,2,0.47,1,1,0,0,0,0,Brajan Gruda,,
+ENG-Premier League,2425,Brighton,ENG,FW,25,1990,16.3,38,2.32,27,1,3,1,6,0,6,0.37,6,0,0,0,0,0,Danny Welbeck,52000.0,2704000.0
+ENG-Premier League,2425,Brighton,IRL,FW,25,2004,2.7,4,1.47,3,0,1,0,0,0,0,0.0,0,0,0,0,0,0,Evan Ferguson,27000.0,1404000.0
+ENG-Premier League,2425,Brighton,FRA,"MF,FW",25,2002,17.6,58,3.3,33,0,8,7,8,2,6,0.34,3,0,2,1,0,0,Georginio Rutter,,
+ENG-Premier League,2425,Brighton,BRA,"FW,MF",25,2001,17.9,55,3.07,43,0,2,2,8,0,9,0.5,6,0,0,0,3,0,João Pedro,45000.0,2340000.0
+ENG-Premier League,2425,Brighton,PAR,"MF,FW",25,2004,3.3,12,3.69,5,1,3,1,2,0,0,0.0,0,0,0,0,0,0,Julio Enciso,15000.0,780000.0
+ENG-Premier League,2425,Brighton,JPN,"FW,MF",25,1997,24.8,74,2.98,62,0,4,3,4,1,8,0.32,7,0,0,0,1,0,Kaoru Mitoma,20000.0,1040000.0
+ENG-Premier League,2425,Brighton,CIV,"FW,MF",25,2002,6.9,25,3.65,18,0,4,3,0,0,4,0.58,3,0,1,0,0,0,Simon Adingra,13000.0,676000.0
+ENG-Premier League,2425,Brighton,ENG,"MF,FW",25,1994,0.4,1,2.25,1,0,0,0,0,0,1,2.25,1,0,0,0,0,0,Solly March,53000.0,2756000.0
+ENG-Premier League,2425,Brighton,GAM,"FW,MF",25,2004,13.2,40,3.05,19,8,10,1,1,1,8,0.61,3,0,4,1,0,0,Yankuba Minteh,,
+ENG-Premier League,2425,Chelsea,FRA,FW,25,1997,8.9,31,3.5,20,0,5,4,1,1,4,0.45,1,0,1,1,1,0,Christopher Nkunku,300000.0,15600000.0
+ENG-Premier League,2425,Chelsea,ENG,FW,25,2000,15.1,55,3.65,48,0,3,1,3,0,10,0.66,9,0,0,0,1,0,Jadon Sancho,275000.0,14300000.0
+ENG-Premier League,2425,Chelsea,POR,"FW,MF",25,1999,4.1,18,4.38,12,0,2,3,1,0,3,0.73,1,0,1,0,1,0,João Félix,,
+ENG-Premier League,2425,Chelsea,ESP,FW,25,2006,0.8,1,1.22,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Marc Guiu,,
+ENG-Premier League,2425,Chelsea,UKR,FW,25,2001,1.7,6,3.6,4,1,0,0,1,0,0,0.0,0,0,0,0,0,0,Mykhailo Mudryk,,
+ENG-Premier League,2425,Chelsea,SEN,FW,25,2001,19.3,62,3.22,37,0,9,7,8,1,10,0.52,7,0,2,1,0,0,Nicolas Jackson,120000.0,6240000.0
+ENG-Premier League,2425,Chelsea,ENG,FW,25,2002,16.1,61,3.78,44,0,8,5,3,1,8,0.5,5,0,0,1,1,1,Noni Madueke,100000.0,5200000.0
+ENG-Premier League,2425,Chelsea,POR,FW,25,2000,16.0,59,3.68,46,4,5,2,2,0,7,0.44,4,1,2,0,0,0,Pedro Neto,39000.0,2028000.0
+ENG-Premier League,2425,Chelsea,ENG,FW,25,2006,0.8,5,6.08,4,0,1,0,0,0,1,1.22,1,0,0,0,0,0,Tyrique George,,
+ENG-Premier League,2425,Crystal Palace,ENG,"MF,FW",25,1998,21.4,105,4.91,54,23,10,10,7,1,7,0.33,6,1,0,0,0,0,Eberechi Eze,,
+ENG-Premier League,2425,Crystal Palace,ENG,"MF,FW",25,1999,7.9,22,2.79,14,0,3,1,4,0,2,0.25,1,0,0,0,1,0,Eddie Nketiah,77000.0,4004000.0
+ENG-Premier League,2425,Crystal Palace,SEN,"MF,FW",25,1998,21.4,88,4.1,62,0,6,7,13,0,8,0.37,5,0,1,0,2,0,Ismaila Sarr,,
+ENG-Premier League,2425,Crystal Palace,FRA,FW,25,1997,23.7,51,2.15,36,0,3,9,3,0,7,0.3,3,0,2,2,0,0,Jean-Philippe Mateta,50000.0,2600000.0
+ENG-Premier League,2425,Crystal Palace,GHA,"FW,MF",25,1991,0.2,1,4.29,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Jordan Ayew,50000.0,2600000.0
+ENG-Premier League,2425,Crystal Palace,FRA,"MF,FW",25,1998,1.3,1,0.78,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Odsonne Édouard,,
+ENG-Premier League,2425,Everton,ALB,FW,25,2001,1.8,4,2.26,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Armando Broja,78000.0,4056000.0
+ENG-Premier League,2425,Everton,ENG,"DF,FW",25,1985,17.3,36,2.08,27,6,0,1,1,1,6,0.35,4,0,0,1,0,1,Ashley Young,43000.0,2236000.0
+ENG-Premier League,2425,Everton,GNB,FW,25,1998,9.5,12,1.26,7,0,2,1,2,0,0,0.0,0,0,0,0,0,0,Beto,53000.0,2756000.0
+ENG-Premier League,2425,Everton,ARG,"MF,FW",25,2002,2.5,12,4.76,8,0,3,0,1,0,1,0.4,1,0,0,0,0,0,Carlos Alcaraz,,
+ENG-Premier League,2425,Everton,ENG,FW,25,1997,17.5,25,1.43,14,0,4,2,3,2,4,0.23,1,0,2,0,1,0,Dominic Calvert-Lewin,120000.0,6240000.0
+ENG-Premier League,2425,Everton,ENG,"MF,FW",25,1999,12.7,60,4.74,33,18,4,2,2,1,6,0.47,3,1,1,0,0,1,Dwight McNeil,77000.0,4004000.0
+ENG-Premier League,2425,Everton,SEN,FW,25,2000,20.9,53,2.54,40,0,7,0,6,0,5,0.24,3,0,1,0,1,0,Iliman Ndiaye,,
+ENG-Premier League,2425,Everton,ENG,FW,25,1996,15.8,42,2.65,29,5,3,2,3,0,3,0.19,1,0,0,1,1,0,Jack Harrison,40000.0,2080000.0
+ENG-Premier League,2425,Everton,DEN,FW,25,2000,13.5,46,3.41,30,7,2,3,3,1,1,0.07,1,0,0,0,0,0,Jesper Lindstrøm,,
+ENG-Premier League,2425,Everton,ENG,"FW,DF",25,1996,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Mason Holgate,,
+ENG-Premier League,2425,Everton,SCO,"DF,FW",25,2001,1.4,6,4.19,4,0,2,0,0,0,0,0.0,0,0,0,0,0,0,Nathan Patterson,39000.0,2028000.0
+ENG-Premier League,2425,Fulham,ESP,"FW,MF",25,1996,15.3,65,4.24,52,0,7,4,0,2,7,0.46,6,0,1,0,0,0,Adama Traoré,63000.0,3276000.0
+ENG-Premier League,2425,Fulham,NGA,"FW,MF",25,1996,25.5,106,4.16,92,0,7,5,2,0,13,0.51,11,0,2,0,0,0,Alex Iwobi,83000.0,4316000.0
+ENG-Premier League,2425,Fulham,WAL,"FW,MF",25,1997,9.3,30,3.22,21,6,0,1,2,0,3,0.32,2,0,0,0,1,0,Harry Wilson,41000.0,2132000.0
+ENG-Premier League,2425,Fulham,ENG,"MF,FW",25,2007,0.9,4,4.5,3,0,1,0,0,0,0,0.0,0,0,0,0,0,0,Joshua King,,
+ENG-Premier League,2425,Fulham,ENG,FW,25,2003,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Martial Godo,,
+ENG-Premier League,2425,Fulham,MEX,FW,25,1991,19.7,46,2.34,29,1,2,9,4,1,6,0.3,3,0,0,1,1,1,Raúl Jiménez,78000.0,4056000.0
+ENG-Premier League,2425,Fulham,ENG,FW,25,1999,5.4,31,5.73,21,2,3,4,0,1,1,0.18,1,0,0,0,0,0,Reiss Nelson,88000.0,4576000.0
+ENG-Premier League,2425,Fulham,BRA,FW,25,2001,8.8,11,1.25,7,0,1,1,1,1,1,0.11,1,0,0,0,0,0,Rodrigo Muniz,10000.0,520000.0
+ENG-Premier League,2425,Ipswich Town,IRQ,FW,25,2002,1.5,8,5.37,4,0,3,0,1,0,0,0.0,0,0,0,0,0,0,Ali Al Hamadi,,
+ENG-Premier League,2425,Ipswich Town,ENG,"DF,FW",25,2000,10.6,17,1.61,8,6,0,1,2,0,4,0.38,3,0,0,1,0,0,Ben Johnson,33000.0,1716000.0
+ENG-Premier League,2425,Ipswich Town,IRL,FW,25,1997,2.6,3,1.13,2,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Chiedozie Ogbene,25000.0,1300000.0
+ENG-Premier League,2425,Ipswich Town,ENG,"MF,FW",25,1997,6.8,18,2.65,17,1,0,0,0,0,1,0.15,1,0,0,0,0,0,Conor Chaplin,,
+ENG-Premier League,2425,Ipswich Town,ENG,FW,25,1999,2.9,6,2.07,5,0,0,1,0,0,2,0.69,1,0,0,1,0,0,George Hirst,,
+ENG-Premier League,2425,Ipswich Town,ENG,"FW,MF",25,2000,9.6,33,3.46,27,2,2,0,0,2,3,0.31,2,1,0,0,0,0,Jack Clarke,,
+ENG-Premier League,2425,Ipswich Town,ENG,"FW,DF",25,2002,4.2,9,2.13,6,0,1,1,1,0,0,0.0,0,0,0,0,0,0,Jaden Philogene Bidace,,
+ENG-Premier League,2425,Ipswich Town,PAR,"MF,FW",25,2004,2.1,13,6.16,5,3,3,1,0,1,1,0.47,0,1,0,0,0,0,Julio Enciso,15000.0,780000.0
+ENG-Premier League,2425,Ipswich Town,ENG,FW,25,2003,23.3,55,2.37,24,0,10,7,12,2,6,0.26,2,0,2,0,2,0,Liam Delap,,
+ENG-Premier League,2425,Ipswich Town,WAL,"FW,MF",25,1998,4.9,13,2.64,11,0,2,0,0,0,1,0.2,1,0,0,0,0,0,Nathan Broadhead,,
+ENG-Premier League,2425,Ipswich Town,ENG,"MF,FW",25,2003,23.7,61,2.57,44,0,8,4,3,2,5,0.21,5,0,0,0,0,0,Omari Hutchinson,,
+ENG-Premier League,2425,Ipswich Town,IRL,"FW,MF",25,1995,10.9,9,0.83,7,0,1,1,0,0,0,0.0,0,0,0,0,0,0,Sammie Szmodics,,
+ENG-Premier League,2425,Ipswich Town,WAL,"FW,DF",25,1994,10.3,16,1.55,12,0,1,1,2,0,1,0.1,1,0,0,0,0,0,Wes Burns,,
+ENG-Premier League,2425,Leicester City,GHA,FW,25,2004,6.4,17,2.64,10,0,2,1,4,0,3,0.47,2,0,0,1,0,0,Abdul Fatawu Issahaku,,
+ENG-Premier League,2425,Leicester City,JAM,"FW,MF",25,1993,7.1,12,1.69,8,0,0,2,2,0,3,0.42,1,0,0,1,1,0,Bobby Reid,,
+ENG-Premier League,2425,Leicester City,ARG,"FW,MF",25,2004,14.4,45,3.12,24,10,8,1,2,0,4,0.28,1,2,1,0,0,0,Facundo Buonanotte,17000.0,884000.0
+ENG-Premier League,2425,Leicester City,ENG,FW,25,1987,23.7,36,1.52,25,0,5,2,4,0,9,0.38,4,0,2,1,2,0,Jamie Vardy,,
+ENG-Premier League,2425,Leicester City,GHA,"FW,MF",25,1991,14.4,28,1.94,18,6,1,2,0,1,1,0.07,1,0,0,0,0,0,Jordan Ayew,50000.0,2600000.0
+ENG-Premier League,2425,Leicester City,IRL,"FW,MF",25,2001,4.3,12,2.8,11,0,0,0,1,0,1,0.23,1,0,0,0,0,0,Kasey McAteer,,
+ENG-Premier League,2425,Leicester City,FRA,FW,25,1998,0.3,2,6.21,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Odsonne Édouard,,
+ENG-Premier League,2425,Leicester City,ZAM,"FW,MF",25,1998,4.4,5,1.13,4,0,1,0,0,0,1,0.23,0,0,1,0,0,0,Patson Daka,,
+ENG-Premier League,2425,Leicester City,ENG,FW,25,1998,15.4,45,2.92,37,2,4,2,0,0,7,0.45,6,0,1,0,0,0,Stephy Mavididi,,
+ENG-Premier League,2425,Leicester City,ENG,FW,25,2005,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Will Alves,,
+ENG-Premier League,2425,Liverpool,NED,FW,25,1999,15.7,61,3.89,46,0,7,4,3,1,6,0.38,3,0,2,0,1,0,Cody Gakpo,110000.0,5720000.0
+ENG-Premier League,2425,Liverpool,ENG,"MF,FW",25,2001,13.0,33,2.54,29,0,0,3,1,0,6,0.46,4,0,0,1,1,0,Curtis Jones,67000.0,3484000.0
+ENG-Premier League,2425,Liverpool,URU,FW,25,1999,10.8,23,2.13,14,0,4,1,2,2,4,0.37,3,0,0,0,1,0,Darwin Núñez,140000.0,7280000.0
+ENG-Premier League,2425,Liverpool,POR,FW,25,1996,9.4,28,2.99,17,0,5,4,1,1,7,0.75,5,0,1,0,1,0,Diogo Jota,140000.0,7280000.0
+ENG-Premier League,2425,Liverpool,ITA,FW,25,1997,0.3,3,9.64,3,0,0,0,0,0,1,3.21,1,0,0,0,0,0,Federico Chiesa,,
+ENG-Premier League,2425,Liverpool,ENG,"MF,FW",25,2003,1.4,7,4.92,5,2,0,0,0,0,2,1.41,2,0,0,0,0,0,Harvey Elliott,46000.0,2392000.0
+ENG-Premier League,2425,Liverpool,COL,FW,25,1997,20.6,92,4.48,66,0,15,8,3,0,15,0.73,12,0,1,0,2,0,Luis Díaz,90000.0,4680000.0
+ENG-Premier League,2425,Liverpool,EGY,FW,25,1992,28.5,131,4.59,96,1,17,11,4,2,23,0.81,17,0,4,2,0,0,Mohamed Salah,350000.0,18200000.0
+ENG-Premier League,2425,Manchester City,POR,"MF,FW",25,1994,22.5,72,3.2,66,1,4,0,1,0,7,0.31,7,0,0,0,0,0,Bernardo Silva,250000.0,13000000.0
+ENG-Premier League,2425,Manchester City,ENG,FW,25,2004,0.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Divin Mubama,,
+ENG-Premier League,2425,Manchester City,NOR,FW,25,2000,26.6,61,2.3,42,0,8,10,1,0,8,0.3,5,0,2,1,0,0,Erling Haaland,340000.0,17680000.0
+ENG-Premier League,2425,Manchester City,ENG,"FW,MF",25,1995,6.8,40,5.9,35,1,3,0,0,1,2,0.3,1,0,0,0,0,1,Jack Grealish,270000.0,14040000.0
+ENG-Premier League,2425,Manchester City,ENG,"MF,FW",25,2002,1.4,1,0.69,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,James Mcatee,,
+ENG-Premier League,2425,Manchester City,BEL,"FW,MF",25,2002,11.9,54,4.53,42,1,9,1,1,0,8,0.67,7,0,1,0,0,0,Jeremy Doku,,
+ENG-Premier League,2425,Manchester City,EGY,"MF,FW",25,1999,4.3,17,3.92,9,3,0,1,4,0,0,0.0,0,0,0,0,0,0,Omar Marmoush,,
+ENG-Premier League,2425,Manchester City,ENG,"MF,FW",25,2000,17.9,83,4.63,55,18,2,5,3,0,9,0.5,5,1,0,3,0,0,Phil Foden,130000.0,6760000.0
+ENG-Premier League,2425,Manchester City,BRA,"FW,MF",25,2004,16.7,94,5.61,67,2,13,4,7,1,14,0.84,9,0,2,1,1,1,Sávio,,
+ENG-Premier League,2425,Manchester Utd,ARG,"FW,MF",25,2004,17.5,52,2.97,38,1,3,6,4,0,4,0.23,2,0,0,1,1,0,Alejandro Garnacho,53000.0,2756000.0
+ENG-Premier League,2425,Manchester Utd,CIV,"FW,MF",25,2002,17.7,80,4.52,54,9,7,2,4,4,16,0.9,7,0,3,1,1,4,Amad Diallo,28000.0,1456000.0
+ENG-Premier League,2425,Manchester Utd,DEN,FW,25,2007,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Chidozie Obi-Martin,,
+ENG-Premier League,2425,Manchester Utd,NED,"FW,MF",25,2001,13.7,27,1.98,25,0,0,1,1,0,3,0.22,1,0,0,1,1,0,Joshua Zirkzee,,
+ENG-Premier League,2425,Manchester Utd,ENG,"FW,MF",25,1997,10.9,29,2.67,24,1,2,2,0,0,1,0.09,1,0,0,0,0,0,Marcus Rashford,300000.0,15600000.0
+ENG-Premier League,2425,Manchester Utd,ENG,"MF,FW",25,1999,2.7,8,2.91,5,2,0,1,0,0,0,0.0,0,0,0,0,0,0,Mason Mount,200000.0,10400000.0
+ENG-Premier League,2425,Manchester Utd,DEN,FW,25,2003,15.0,23,1.53,15,0,2,3,3,0,1,0.07,0,0,0,0,1,0,Rasmus Højlund,78000.0,4056000.0
+ENG-Premier League,2425,Newcastle Utd,SWE,FW,25,1999,22.8,75,3.29,57,1,8,5,2,2,13,0.57,10,0,1,0,1,1,Alexander Isak,120000.0,6240000.0
+ENG-Premier League,2425,Newcastle Utd,ENG,FW,25,2001,23.4,96,4.1,69,10,7,3,7,0,12,0.51,9,1,1,0,1,0,Anthony Gordon,93000.0,4836000.0
+ENG-Premier League,2425,Newcastle Utd,ENG,"FW,MF",25,1992,1.8,1,0.55,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Callum Wilson,110000.0,5720000.0
+ENG-Premier League,2425,Newcastle Utd,ENG,FW,25,1997,10.0,34,3.37,22,1,3,4,4,0,6,0.6,3,0,1,1,1,0,Harvey Barnes,120000.0,6240000.0
+ENG-Premier League,2425,Newcastle Utd,ENG,FW,25,1995,18.7,54,2.9,41,4,3,2,2,2,9,0.48,9,0,0,0,0,0,Jacob Murphy,35000.0,1820000.0
+ENG-Premier League,2425,Newcastle Utd,ENG,"MF,FW",25,1999,9.1,37,4.08,31,0,3,2,1,0,4,0.44,4,0,0,0,0,0,Joe Willock,80000.0,4160000.0
+ENG-Premier League,2425,Newcastle Utd,BRA,"MF,FW",25,1996,22.3,48,2.15,38,2,0,4,1,3,6,0.27,6,0,0,0,0,0,Joelinton,80000.0,4160000.0
+ENG-Premier League,2425,Newcastle Utd,PAR,FW,25,1994,1.7,8,4.59,6,0,1,1,0,0,0,0.0,0,0,0,0,0,0,Miguel Almirón,100000.0,5200000.0
+ENG-Premier League,2425,Newcastle Utd,DEN,FW,25,2003,0.8,1,1.27,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,William Osula,3400.0,176800.0
+ENG-Premier League,2425,Nott'ham Forest,SWE,"FW,MF",25,2002,19.8,77,3.9,45,15,5,4,8,0,12,0.61,8,2,1,0,1,0,Anthony Elanga,48000.0,2496000.0
+ENG-Premier League,2425,Nott'ham Forest,ENG,"FW,MF",25,2000,20.2,79,3.92,60,3,9,3,4,0,10,0.5,6,0,2,0,2,0,Callum Hudson-Odoi,82000.0,4264000.0
+ENG-Premier League,2425,Nott'ham Forest,NZL,FW,25,1991,25.2,36,1.43,28,0,2,4,0,2,5,0.2,4,0,0,0,0,1,Chris Wood,82000.0,4264000.0
+ENG-Premier League,2425,Nott'ham Forest,POR,"FW,MF",25,1999,7.9,27,3.4,20,0,1,3,3,0,3,0.38,2,0,0,0,1,0,Jota Silva,,
+ENG-Premier League,2425,Nott'ham Forest,ARG,"MF,FW",25,1998,14.8,19,1.29,12,1,0,2,3,1,0,0.0,0,0,0,0,0,0,Nicolás Domínguez,39000.0,2028000.0
+ENG-Premier League,2425,Nott'ham Forest,PAR,"FW,MF",25,1999,2.7,12,4.46,9,0,2,1,0,0,0,0.0,0,0,0,0,0,0,Ramón Sosa,,
+ENG-Premier League,2425,Nott'ham Forest,NGA,FW,25,1997,3.0,8,2.69,5,0,1,1,1,0,1,0.34,0,0,0,1,0,0,Taiwo Awoniyi,42000.0,2184000.0
+ENG-Premier League,2425,Southampton,ENG,"FW,MF",25,1997,13.9,19,1.37,12,1,2,4,0,0,4,0.29,1,0,0,3,0,0,Adam Armstrong,,
+ENG-Premier League,2425,Southampton,DEN,"MF,FW",25,2001,1.5,2,1.33,1,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Albert Grønbaek,,
+ENG-Premier League,2425,Southampton,CHI,FW,25,1999,5.0,9,1.8,7,0,0,0,2,0,0,0.0,0,0,0,0,0,0,Ben Brereton,,
+ENG-Premier League,2425,Southampton,ENG,FW,25,2001,12.9,13,1.01,6,0,3,3,1,0,0,0.0,0,0,0,0,0,0,Cameron Archer,37000.0,1924000.0
+ENG-Premier League,2425,Southampton,GHA,"FW,MF",25,2002,7.3,18,2.45,7,1,8,1,1,0,2,0.27,0,0,1,1,0,0,Kamaldeen Sulemana,,
+ENG-Premier League,2425,Southampton,CIV,FW,25,1996,0.8,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Maxwel Cornet,64000.0,3328000.0
+ENG-Premier League,2425,Southampton,NGA,FW,25,1994,8.0,7,0.88,6,0,0,1,0,0,1,0.13,1,0,0,0,0,0,Paul Onuachu,,
+ENG-Premier League,2425,Southampton,SCO,"FW,MF",25,1996,1.5,2,1.36,1,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Ross Stewart,,
+ENG-Premier League,2425,Southampton,SCO,"FW,DF",25,1994,3.4,5,1.47,5,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Ryan Fraser,,
+ENG-Premier League,2425,Southampton,ENG,"FW,DF",25,2006,0.3,2,6.43,1,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Samuel Amo-Ameyaw,,
+ENG-Premier League,2425,Southampton,ENG,"DF,FW",25,2003,0.7,4,5.54,3,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Samuel Edozie,,
+ENG-Premier League,2425,Southampton,ENG,"FW,MF",25,2006,16.1,49,3.04,31,1,10,3,4,0,3,0.19,2,0,1,0,0,0,Tyler Dibling,,
+ENG-Premier League,2425,Tottenham,WAL,FW,25,2001,19.1,42,2.2,28,0,6,4,3,1,6,0.31,5,0,1,0,0,0,Brennan Johnson,63000.0,3276000.0
+ENG-Premier League,2425,Tottenham,ENG,FW,25,2004,0.3,1,3.1,1,0,0,0,0,0,1,3.1,1,0,0,0,0,0,Dane Scarlett,,
+ENG-Premier League,2425,Tottenham,SWE,"MF,FW",25,2000,23.9,122,5.1,90,12,15,2,3,0,9,0.38,7,1,1,0,0,0,Dejan Kulusevski,140000.0,7280000.0
+ENG-Premier League,2425,Tottenham,ENG,FW,25,1997,18.8,34,1.81,22,0,0,9,2,1,7,0.37,5,0,0,1,1,0,Dominic Solanke,72000.0,3744000.0
+ENG-Premier League,2425,Tottenham,FRA,FW,25,2005,2.5,2,0.79,1,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Mathys Tel,,
+ENG-Premier League,2425,Tottenham,ENG,"FW,MF",25,2007,2.1,10,4.86,6,2,0,1,1,0,2,0.97,1,0,0,1,0,0,Mikey Moore,,
+ENG-Premier League,2425,Tottenham,BRA,FW,25,1997,3.1,8,2.57,5,0,0,2,1,0,1,0.32,1,0,0,0,0,0,Richarlison,175000.0,9100000.0
+ENG-Premier League,2425,Tottenham,KOR,FW,25,1992,20.1,105,5.22,78,7,10,6,4,0,14,0.7,12,0,0,1,1,0,Son Heung-min,,
+ENG-Premier League,2425,Tottenham,GER,"FW,MF",25,1996,5.7,18,3.13,14,0,2,1,1,0,3,0.52,3,0,0,0,0,0,Timo Werner,,
+ENG-Premier League,2425,Tottenham,ENG,"FW,MF",25,2005,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Will Lankshear,,
+ENG-Premier League,2425,Tottenham,FRA,FW,25,2004,3.8,6,1.6,4,0,0,2,0,0,0,0.0,0,0,0,0,0,0,Wilson Odobert,16000.0,832000.0
+ENG-Premier League,2425,West Ham,ESP,"MF,FW",25,1997,12.1,42,3.47,26,7,2,4,2,1,2,0.17,2,0,0,0,0,0,Carlos Soler,,
+ENG-Premier League,2425,West Ham,NED,"FW,MF",25,2001,8.7,35,4.01,21,3,5,0,5,1,1,0.11,1,0,0,0,0,0,Crysencio Summerville,,
+ENG-Premier League,2425,West Ham,ENG,"FW,MF",25,1992,3.2,12,3.8,7,0,1,3,1,0,2,0.63,0,0,0,1,1,0,Danny Ings,125000.0,6500000.0
+ENG-Premier League,2425,West Ham,IRL,FW,25,2004,1.0,4,3.83,2,0,1,1,0,0,0,0.0,0,0,0,0,0,0,Evan Ferguson,27000.0,1404000.0
+ENG-Premier League,2425,West Ham,ENG,"FW,MF",25,1996,23.3,90,3.86,55,12,5,10,6,2,10,0.43,6,2,1,1,0,0,Jarrod Bowen,125000.0,6500000.0
+ENG-Premier League,2425,West Ham,BRA,"MF,FW",25,1997,19.2,61,3.18,49,2,1,4,5,0,5,0.26,2,0,0,2,1,0,Lucas Paquetá,130000.0,6760000.0
+ENG-Premier League,2425,West Ham,BRA,"MF,FW",25,2006,0.6,6,9.47,3,1,0,1,1,0,0,0.0,0,0,0,0,0,0,Luis Guilherme,,
+ENG-Premier League,2425,West Ham,JAM,FW,25,1990,9.3,22,2.37,14,0,1,5,1,1,4,0.43,0,0,0,4,0,0,Michail Antonio,69000.0,3588000.0
+ENG-Premier League,2425,West Ham,GHA,"MF,FW",25,2000,21.2,79,3.73,55,1,12,8,1,2,3,0.14,2,0,0,1,0,0,Mohammed Kudus,79000.0,4108000.0
+ENG-Premier League,2425,West Ham,GER,FW,25,1993,4.1,11,2.67,10,0,0,1,0,0,1,0.24,0,0,0,1,0,0,Niclas Füllkrug,,
+ENG-Premier League,2425,Wolves,POR,"MF,FW",25,2004,2.6,5,1.91,3,0,2,0,0,0,1,0.38,1,0,0,0,0,0,Carlos Forbs,,
+ENG-Premier League,2425,Wolves,POR,"MF,FW",25,1995,0.5,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Daniel Podence,,
+ENG-Premier League,2425,Wolves,POR,"MF,FW",25,1996,8.3,22,2.65,20,0,1,0,1,0,8,0.96,7,0,1,0,0,0,Gonçalo Guedes,,
+ENG-Premier League,2425,Wolves,KOR,"MF,FW",25,1996,7.1,9,1.27,8,0,0,1,0,0,1,0.14,1,0,0,0,0,0,Hwang Hee-chan,,
+ENG-Premier League,2425,Wolves,FRA,"MF,FW",25,1998,13.5,43,3.18,28,1,3,4,5,2,7,0.52,6,0,0,0,0,1,Jean-Ricner Bellegarde,45000.0,2340000.0
+ENG-Premier League,2425,Wolves,NOR,FW,25,2000,22.0,31,1.41,25,1,0,2,2,1,3,0.14,3,0,0,0,0,0,Jørgen Strand Larsen,,
+ENG-Premier League,2425,Wolves,ZIM,"FW,MF",25,1996,3.0,6,2.0,4,0,0,1,1,0,0,0.0,0,0,0,0,0,0,Marshall Munetsi,,
+ENG-Premier League,2425,Wolves,BRA,"MF,FW",25,1999,23.8,98,4.12,56,10,13,7,10,2,9,0.38,7,0,2,0,0,0,Matheus Cunha,79000.0,4108000.0
+ENG-Premier League,2425,Wolves,ESP,"MF,FW",25,1992,6.0,17,2.82,12,4,1,0,0,0,2,0.33,1,0,1,0,0,0,Pablo Sarabia,110000.0,5720000.0
+ENG-Premier League,2425,Wolves,POR,"DF,FW",25,2003,6.3,14,2.22,12,0,1,1,0,0,0,0.0,0,0,0,0,0,0,Rodrigo Gomes,,
